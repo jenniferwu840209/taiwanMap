@@ -13,7 +13,7 @@
     "name": "連江縣",
     "upperLayerID": "00",
     "center": [120.04453, 26.18431],
-    "data": "https://jenniferwu840209.github.io/taiwanMap/town_LienchiangCounty.geojson"
+    "data": "https://jenniferwu840209.github.io/taiwanMap/county_09007.geojson"
   },
   {
     "type": "county",
@@ -21,7 +21,7 @@
     "name": "金門縣",
     "upperLayerID": "00",
     "center": [118.37812, 24.46121],
-    "data": "https://jenniferwu840209.github.io/taiwanMap/town_KinmenCounty.geojson"
+    "data": "https://jenniferwu840209.github.io/taiwanMap/county_09020.geojson"
   },
   {
     "type": "county",
@@ -29,7 +29,7 @@
     "name": "宜蘭縣",
     "upperLayerID": "00",
     "center": [121.6445, 24.5735],
-    "data": "https://jenniferwu840209.github.io/taiwanMap/town_YilanCounty.geojson"
+    "data": "https://jenniferwu840209.github.io/taiwanMap/county_10002.geojson"
   },
   {
     "type": "county",
@@ -37,7 +37,7 @@
     "name": "新竹縣",
     "upperLayerID": "00",
     "center": [121.1637, 24.6813],
-    "data": "https://jenniferwu840209.github.io/taiwanMap/town_HsinchuCounty.geojson"
+    "data": "https://jenniferwu840209.github.io/taiwanMap/county_10004.geojson"
   },
   {
     "type": "county",
@@ -45,7 +45,7 @@
     "name": "苗栗縣",
     "upperLayerID": "00",
     "center": [120.9184, 24.488],
-    "data": "https://jenniferwu840209.github.io/taiwanMap/town_MiaoliCounty.geojson"
+    "data": "https://jenniferwu840209.github.io/taiwanMap/county_10005.geojson"
   },
   {
     "type": "county",
@@ -53,7 +53,7 @@
     "name": "彰化縣",
     "upperLayerID": "00",
     "center": [120.468814, 23.964547],
-    "data": "https://jenniferwu840209.github.io/taiwanMap/town_ChanghuaCounty.geojson"
+    "data": "https://jenniferwu840209.github.io/taiwanMap/county_10007.geojson"
   },
   {
     "type": "county",
@@ -61,7 +61,7 @@
     "name": "南投縣",
     "upperLayerID": "00",
     "center": [120.97739, 23.8424],
-    "data": "https://jenniferwu840209.github.io/taiwanMap/town_NantouCounty.geojson"
+    "data": "https://jenniferwu840209.github.io/taiwanMap/county_10008.geojson"
   },
   {
     "type": "county",
@@ -69,7 +69,7 @@
     "name": "雲林縣",
     "upperLayerID": "00",
     "center": [120.372, 23.6925],
-    "data": "https://jenniferwu840209.github.io/taiwanMap/town_YunlinCounty.geojson"
+    "data": "https://jenniferwu840209.github.io/taiwanMap/county_10009.geojson"
   },
   {
     "type": "county",
@@ -77,7 +77,7 @@
     "name": "嘉義縣",
     "upperLayerID": "00",
     "center": [120.5157, 23.4484],
-    "data": "https://jenniferwu840209.github.io/taiwanMap/town_ChiayiCounty.geojson"
+    "data": "https://jenniferwu840209.github.io/taiwanMap/county_10010.geojson"
   },
   {
     "type": "county",
@@ -85,7 +85,7 @@
     "name": "屏東縣",
     "upperLayerID": "00",
     "center": [120.6768, 22.4819],
-    "data": "https://jenniferwu840209.github.io/taiwanMap/town_PingtungCounty.geojson"
+    "data": "https://jenniferwu840209.github.io/taiwanMap/county_10013.geojson"
   },
   {
     "type": "county",
@@ -93,7 +93,7 @@
     "name": "臺東縣",
     "upperLayerID": "00",
     "center": [121.0435, 22.8648],
-    "data": "https://jenniferwu840209.github.io/taiwanMap/town_TaitungCounty.geojson"
+    "data": "https://jenniferwu840209.github.io/taiwanMap/county_10014.geojson"
   },
   {
     "type": "county",
@@ -101,7 +101,7 @@
     "name": "花蓮縣",
     "upperLayerID": "00",
     "center": [121.3769, 23.7532],
-    "data": "https://jenniferwu840209.github.io/taiwanMap/town_HualienCounty.geojson"
+    "data": "https://jenniferwu840209.github.io/taiwanMap/county_10015.geojson"
   },
   {
     "type": "county",
@@ -109,7 +109,7 @@
     "name": "澎湖縣",
     "upperLayerID": "00",
     "center": [119.575, 23.54173],
-    "data": "https://jenniferwu840209.github.io/taiwanMap/town_PenghuCounty.geojson"
+    "data": "https://jenniferwu840209.github.io/taiwanMap/county_10016.geojson"
   },
   {
     "type": "county",
@@ -117,7 +117,7 @@
     "name": "基隆市",
     "upperLayerID": "00",
     "center": [121.72288, 25.12156],
-    "data": "https://jenniferwu840209.github.io/taiwanMap/town_KeelungCity.geojson"
+    "data": "https://jenniferwu840209.github.io/taiwanMap/county_10017.geojson"
   },
   {
     "type": "county",
@@ -125,7 +125,7 @@
     "name": "新竹市",
     "upperLayerID": "00",
     "center": [120.94704, 24.7871],
-    "data": "https://jenniferwu840209.github.io/taiwanMap/town_HsinchuCity.geojson"
+    "data": "https://jenniferwu840209.github.io/taiwanMap/county_10018.geojson"
   },
   {
     "type": "county",
@@ -133,7 +133,7 @@
     "name": "嘉義市",
     "upperLayerID": "00",
     "center": [120.4473, 23.48051],
-    "data": "https://jenniferwu840209.github.io/taiwanMap/town_ChiayiCity.geojson"
+    "data": "https://jenniferwu840209.github.io/taiwanMap/county_10020.geojson"
   },
   {
     "type": "county",
@@ -141,7 +141,7 @@
     "name": "臺北市",
     "upperLayerID": "00",
     "center": [121.55473, 25.08271],
-    "data": "https://jenniferwu840209.github.io/taiwanMap/town_TaipeiCity.geojson"
+    "data": "https://jenniferwu840209.github.io/taiwanMap/county_63000.geojson"
   },
   {
     "type": "county",
@@ -149,7 +149,7 @@
     "name": "高雄市",
     "upperLayerID": "00",
     "center": [120.6112, 22.9857],
-    "data": "https://jenniferwu840209.github.io/taiwanMap/town_KaohsiungCity.geojson"
+    "data": "https://jenniferwu840209.github.io/taiwanMap/county_64000.geojson"
   },
   {
     "type": "county",
@@ -157,7 +157,7 @@
     "name": "新北市",
     "upperLayerID": "00",
     "center": [121.59289, 24.98678],
-    "data": "https://jenniferwu840209.github.io/taiwanMap/town_NewTaipeiCity.geojson"
+    "data": "https://jenniferwu840209.github.io/taiwanMap/county_65000.geojson"
   },
   {
     "type": "county",
@@ -165,7 +165,7 @@
     "name": "臺中市",
     "upperLayerID": "00",
     "center": [120.8919, 24.2387],
-    "data": "https://jenniferwu840209.github.io/taiwanMap/town_TaichungCity.geojson"
+    "data": "https://jenniferwu840209.github.io/taiwanMap/county_66000.geojson"
   },
   {
     "type": "county",
@@ -173,7 +173,7 @@
     "name": "臺南市",
     "upperLayerID": "00",
     "center": [120.32498, 23.15511],
-    "data": "https://jenniferwu840209.github.io/taiwanMap/town_TainanCity.geojson"
+    "data": "https://jenniferwu840209.github.io/taiwanMap/county_67000.geojson"
   },
   {
     "type": "county",
@@ -181,7 +181,7 @@
     "name": "桃園市",
     "upperLayerID": "00",
     "center": [121.25866, 24.9019],
-    "data": "https://jenniferwu840209.github.io/taiwanMap/town_TaoyuanCity.geojson"
+    "data": "https://jenniferwu840209.github.io/taiwanMap/county_68000.geojson"
   },
   {
     "type": "town",
