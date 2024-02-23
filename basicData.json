@@ -3,7 +3,7 @@
     "type": "country",
     "ID": "00",
     "name": "台灣",
-    "upperLayerID": null,
+    "upperLayerID": "null",
     "center": [121.021, 23.598],
     "data": "https://jenniferwu840209.github.io/taiwanMap/county.geojson"
   },
@@ -267,7 +267,7 @@
     "type": "town",
     "ID": "10002010",
     "name": "宜蘭市",
-    "upperLayerID": 10002,
+    "upperLayerID": "10002",
     "center": [121.756933058649, 24.7503111356725],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10002010.geojson"
   },
@@ -275,7 +275,7 @@
     "type": "town",
     "ID": "10002020",
     "name": "羅東鎮",
-    "upperLayerID": 10002,
+    "upperLayerID": "10002",
     "center": [121.770194482759, 24.6789374438512],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10002020.geojson"
   },
@@ -283,7 +283,7 @@
     "type": "town",
     "ID": "10002030",
     "name": "蘇澳鎮",
-    "upperLayerID": 10002,
+    "upperLayerID": "10002",
     "center": [121.836324703976, 24.5565362572861],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10002030.geojson"
   },
@@ -291,7 +291,7 @@
     "type": "town",
     "ID": "10002040",
     "name": "頭城鎮",
-    "upperLayerID": 10002,
+    "upperLayerID": "10002",
     "center": [121.940737201228, 24.9491607583895],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10002040.geojson"
   },
@@ -299,7 +299,7 @@
     "type": "town",
     "ID": "10002050",
     "name": "礁溪鄉",
-    "upperLayerID": 10002,
+    "upperLayerID": "10002",
     "center": [121.734681384483, 24.8115302696525],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10002050.geojson"
   },
@@ -307,7 +307,7 @@
     "type": "town",
     "ID": "10002060",
     "name": "壯圍鄉",
-    "upperLayerID": 10002,
+    "upperLayerID": "10002",
     "center": [121.801775246725, 24.7518853435098],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10002060.geojson"
   },
@@ -315,7 +315,7 @@
     "type": "town",
     "ID": "10002070",
     "name": "員山鄉",
-    "upperLayerID": 10002,
+    "upperLayerID": "10002",
     "center": [121.66123507957, 24.7420789007828],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10002070.geojson"
   },
@@ -323,7 +323,7 @@
     "type": "town",
     "ID": "10002080",
     "name": "冬山鄉",
-    "upperLayerID": 10002,
+    "upperLayerID": "10002",
     "center": [121.76027851166, 24.6422359767759],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10002080.geojson"
   },
@@ -331,7 +331,7 @@
     "type": "town",
     "ID": "10002090",
     "name": "五結鄉",
-    "upperLayerID": 10002,
+    "upperLayerID": "10002",
     "center": [121.806097182759, 24.6891240399837],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10002090.geojson"
   },
@@ -339,7 +339,7 @@
     "type": "town",
     "ID": "10002100",
     "name": "三星鄉",
-    "upperLayerID": 10002,
+    "upperLayerID": "10002",
     "center": [121.664307002089, 24.6678063423901],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10002100.geojson"
   },
@@ -347,7 +347,7 @@
     "type": "town",
     "ID": "10002110",
     "name": "大同鄉",
-    "upperLayerID": 10002,
+    "upperLayerID": "10002",
     "center": [121.515334624719, 24.5448855717846],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10002110.geojson"
   },
@@ -355,7 +355,7 @@
     "type": "town",
     "ID": "10002120",
     "name": "南澳鄉",
-    "upperLayerID": 10002,
+    "upperLayerID": "10002",
     "center": [121.666048151045, 24.4412704152986],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10002120.geojson"
   },
@@ -363,7 +363,7 @@
     "type": "town",
     "ID": "10004010",
     "name": "竹北市",
-    "upperLayerID": 10004,
+    "upperLayerID": "10004",
     "center": [120.994095696088, 24.8385360062774],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10004010.geojson"
   },
@@ -371,7 +371,7 @@
     "type": "town",
     "ID": "10004020",
     "name": "竹東鎮",
-    "upperLayerID": 10004,
+    "upperLayerID": "10004",
     "center": [121.075350135284, 24.7308775496986],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10004020.geojson"
   },
@@ -379,7 +379,7 @@
     "type": "town",
     "ID": "10004030",
     "name": "新埔鎮",
-    "upperLayerID": 10004,
+    "upperLayerID": "10004",
     "center": [121.093991878726, 24.8414428131278],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10004030.geojson"
   },
@@ -387,7 +387,7 @@
     "type": "town",
     "ID": "10004040",
     "name": "關西鎮",
-    "upperLayerID": 10004,
+    "upperLayerID": "10004",
     "center": [121.186608669991, 24.7852436021818],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10004040.geojson"
   },
@@ -395,7 +395,7 @@
     "type": "town",
     "ID": "10004050",
     "name": "湖口鄉",
-    "upperLayerID": 10004,
+    "upperLayerID": "10004",
     "center": [121.051711065533, 24.8857642938328],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10004050.geojson"
   },
@@ -403,7 +403,7 @@
     "type": "town",
     "ID": "10004060",
     "name": "新豐鄉",
-    "upperLayerID": 10004,
+    "upperLayerID": "10004",
     "center": [120.994737397232, 24.9074814372202],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10004060.geojson"
   },
@@ -411,7 +411,7 @@
     "type": "town",
     "ID": "10004070",
     "name": "芎林鄉",
-    "upperLayerID": 10004,
+    "upperLayerID": "10004",
     "center": [121.104646125431, 24.7658079273816],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10004070.geojson"
   },
@@ -419,7 +419,7 @@
     "type": "town",
     "ID": "10004080",
     "name": "橫山鄉",
-    "upperLayerID": 10004,
+    "upperLayerID": "10004",
     "center": [121.146987761258, 24.7079121042003],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10004080.geojson"
   },
@@ -427,7 +427,7 @@
     "type": "town",
     "ID": "10004090",
     "name": "北埔鄉",
-    "upperLayerID": 10004,
+    "upperLayerID": "10004",
     "center": [121.064277951435, 24.672181906134],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10004090.geojson"
   },
@@ -435,7 +435,7 @@
     "type": "town",
     "ID": "10004100",
     "name": "寶山鄉",
-    "upperLayerID": 10004,
+    "upperLayerID": "10004",
     "center": [120.99917064588, 24.7370363881985],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10004100.geojson"
   },
@@ -443,7 +443,7 @@
     "type": "town",
     "ID": "10004110",
     "name": "峨眉鄉",
-    "upperLayerID": 10004,
+    "upperLayerID": "10004",
     "center": [121.011084845635, 24.6782095838535],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10004110.geojson"
   },
@@ -451,7 +451,7 @@
     "type": "town",
     "ID": "10004120",
     "name": "尖石鄉",
-    "upperLayerID": 10004,
+    "upperLayerID": "10004",
     "center": [121.28194687605, 24.5950307464983],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10004120.geojson"
   },
@@ -459,7 +459,7 @@
     "type": "town",
     "ID": "10004130",
     "name": "五峰鄉",
-    "upperLayerID": 10004,
+    "upperLayerID": "10004",
     "center": [121.138977397929, 24.5781620394124],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10004130.geojson"
   },
@@ -467,7 +467,7 @@
     "type": "town",
     "ID": "10005010",
     "name": "苗栗市",
-    "upperLayerID": 10005,
+    "upperLayerID": "10005",
     "center": [120.811230300201, 24.5639254433419],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10005010.geojson"
   },
@@ -475,7 +475,7 @@
     "type": "town",
     "ID": "10005020",
     "name": "苑裡鎮",
-    "upperLayerID": 10005,
+    "upperLayerID": "10005",
     "center": [120.687893417448, 24.4114711521922],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10005020.geojson"
   },
@@ -483,7 +483,7 @@
     "type": "town",
     "ID": "10005030",
     "name": "通霄鎮",
-    "upperLayerID": 10005,
+    "upperLayerID": "10005",
     "center": [120.713763156184, 24.486100730105],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10005030.geojson"
   },
@@ -491,7 +491,7 @@
     "type": "town",
     "ID": "10005040",
     "name": "竹南鎮",
-    "upperLayerID": 10005,
+    "upperLayerID": "10005",
     "center": [120.876016673669, 24.6992456807119],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10005040.geojson"
   },
@@ -499,7 +499,7 @@
     "type": "town",
     "ID": "10005050",
     "name": "頭份市",
-    "upperLayerID": 10005,
+    "upperLayerID": "10005",
     "center": [120.918959243454, 24.6763875709989],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10005050.geojson"
   },
@@ -507,7 +507,7 @@
     "type": "town",
     "ID": "10005060",
     "name": "後龍鎮",
-    "upperLayerID": 10005,
+    "upperLayerID": "10005",
     "center": [120.778993730101, 24.6172348345081],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10005060.geojson"
   },
@@ -515,7 +515,7 @@
     "type": "town",
     "ID": "10005070",
     "name": "卓蘭鎮",
-    "upperLayerID": 10005,
+    "upperLayerID": "10005",
     "center": [120.856048485448, 24.3253828113995],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10005070.geojson"
   },
@@ -523,7 +523,7 @@
     "type": "town",
     "ID": "10005080",
     "name": "大湖鄉",
-    "upperLayerID": 10005,
+    "upperLayerID": "10005",
     "center": [120.86314858213, 24.3937930288937],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10005080.geojson"
   },
@@ -531,7 +531,7 @@
     "type": "town",
     "ID": "10005090",
     "name": "公館鄉",
-    "upperLayerID": 10005,
+    "upperLayerID": "10005",
     "center": [120.850595457356, 24.5026029361323],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10005090.geojson"
   },
@@ -539,7 +539,7 @@
     "type": "town",
     "ID": "10005100",
     "name": "銅鑼鄉",
-    "upperLayerID": 10005,
+    "upperLayerID": "10005",
     "center": [120.799208417128, 24.4560236895204],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10005100.geojson"
   },
@@ -547,7 +547,7 @@
     "type": "town",
     "ID": "10005110",
     "name": "南庄鄉",
-    "upperLayerID": 10005,
+    "upperLayerID": "10005",
     "center": [121.017491062357, 24.566202752881],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10005110.geojson"
   },
@@ -555,7 +555,7 @@
     "type": "town",
     "ID": "10005120",
     "name": "頭屋鄉",
-    "upperLayerID": 10005,
+    "upperLayerID": "10005",
     "center": [120.882669902416, 24.573566684593],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10005120.geojson"
   },
@@ -563,7 +563,7 @@
     "type": "town",
     "ID": "10005130",
     "name": "三義鄉",
-    "upperLayerID": 10005,
+    "upperLayerID": "10005",
     "center": [120.77019838015, 24.380924658082],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10005130.geojson"
   },
@@ -571,7 +571,7 @@
     "type": "town",
     "ID": "10005140",
     "name": "西湖鄉",
-    "upperLayerID": 10005,
+    "upperLayerID": "10005",
     "center": [120.761417429507, 24.5416344927638],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10005140.geojson"
   },
@@ -579,7 +579,7 @@
     "type": "town",
     "ID": "10005150",
     "name": "造橋鄉",
-    "upperLayerID": 10005,
+    "upperLayerID": "10005",
     "center": [120.869563117574, 24.6249189411729],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10005150.geojson"
   },
@@ -587,7 +587,7 @@
     "type": "town",
     "ID": "10005160",
     "name": "三灣鄉",
-    "upperLayerID": 10005,
+    "upperLayerID": "10005",
     "center": [120.95257123906, 24.6360905343755],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10005160.geojson"
   },
@@ -595,7 +595,7 @@
     "type": "town",
     "ID": "10005170",
     "name": "獅潭鄉",
-    "upperLayerID": 10005,
+    "upperLayerID": "10005",
     "center": [120.920693890007, 24.5199105426613],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10005170.geojson"
   },
@@ -603,7 +603,7 @@
     "type": "town",
     "ID": "10005180",
     "name": "泰安鄉",
-    "upperLayerID": 10005,
+    "upperLayerID": "10005",
     "center": [121.068290642613, 24.4192754220292],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10005180.geojson"
   },
@@ -611,7 +611,7 @@
     "type": "town",
     "ID": "10007010",
     "name": "彰化市",
-    "upperLayerID": 10007,
+    "upperLayerID": "10007",
     "center": [120.569396090596, 24.0754231493363],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10007010.geojson"
   },
@@ -619,7 +619,7 @@
     "type": "town",
     "ID": "10007020",
     "name": "鹿港鎮",
-    "upperLayerID": 10007,
+    "upperLayerID": "10007",
     "center": [120.42639951979, 24.0841310458734],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10007020.geojson"
   },
@@ -627,7 +627,7 @@
     "type": "town",
     "ID": "10007030",
     "name": "和美鎮",
-    "upperLayerID": 10007,
+    "upperLayerID": "10007",
     "center": [120.511211304429, 24.1138668703698],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10007030.geojson"
   },
@@ -635,7 +635,7 @@
     "type": "town",
     "ID": "10007040",
     "name": "線西鄉",
-    "upperLayerID": 10007,
+    "upperLayerID": "10007",
     "center": [120.441948195054, 24.1377079254187],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10007040.geojson"
   },
@@ -643,7 +643,7 @@
     "type": "town",
     "ID": "10007050",
     "name": "伸港鄉",
-    "upperLayerID": 10007,
+    "upperLayerID": "10007",
     "center": [120.473968317611, 24.170627228076],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10007050.geojson"
   },
@@ -651,7 +651,7 @@
     "type": "town",
     "ID": "10007060",
     "name": "福興鄉",
-    "upperLayerID": 10007,
+    "upperLayerID": "10007",
     "center": [120.422777942705, 24.0330481001965],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10007060.geojson"
   },
@@ -659,7 +659,7 @@
     "type": "town",
     "ID": "10007070",
     "name": "秀水鄉",
-    "upperLayerID": 10007,
+    "upperLayerID": "10007",
     "center": [120.504115015846, 24.0325799176971],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10007070.geojson"
   },
@@ -667,7 +667,7 @@
     "type": "town",
     "ID": "10007080",
     "name": "花壇鄉",
-    "upperLayerID": 10007,
+    "upperLayerID": "10007",
     "center": [120.559760768079, 24.03015879001],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10007080.geojson"
   },
@@ -675,7 +675,7 @@
     "type": "town",
     "ID": "10007090",
     "name": "芬園鄉",
-    "upperLayerID": 10007,
+    "upperLayerID": "10007",
     "center": [120.629453876825, 24.0063654772795],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10007090.geojson"
   },
@@ -683,7 +683,7 @@
     "type": "town",
     "ID": "10007100",
     "name": "員林市",
-    "upperLayerID": 10007,
+    "upperLayerID": "10007",
     "center": [120.59309667714, 23.9565996354554],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10007100.geojson"
   },
@@ -691,7 +691,7 @@
     "type": "town",
     "ID": "10007110",
     "name": "溪湖鎮",
-    "upperLayerID": 10007,
+    "upperLayerID": "10007",
     "center": [120.48318966681, 23.9517995488446],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10007110.geojson"
   },
@@ -699,7 +699,7 @@
     "type": "town",
     "ID": "10007120",
     "name": "田中鎮",
-    "upperLayerID": 10007,
+    "upperLayerID": "10007",
     "center": [120.590359293425, 23.857339403678],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10007120.geojson"
   },
@@ -707,7 +707,7 @@
     "type": "town",
     "ID": "10007130",
     "name": "大村鄉",
-    "upperLayerID": 10007,
+    "upperLayerID": "10007",
     "center": [120.558688636711, 23.9921821250869],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10007130.geojson"
   },
@@ -715,7 +715,7 @@
     "type": "town",
     "ID": "10007140",
     "name": "埔鹽鄉",
-    "upperLayerID": 10007,
+    "upperLayerID": "10007",
     "center": [120.459445135825, 23.9921230125032],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10007140.geojson"
   },
@@ -723,7 +723,7 @@
     "type": "town",
     "ID": "10007150",
     "name": "埔心鄉",
-    "upperLayerID": 10007,
+    "upperLayerID": "10007",
     "center": [120.534276126874, 23.9528693282391],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10007150.geojson"
   },
@@ -731,7 +731,7 @@
     "type": "town",
     "ID": "10007160",
     "name": "永靖鄉",
-    "upperLayerID": 10007,
+    "upperLayerID": "10007",
     "center": [120.541605053571, 23.921491477141],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10007160.geojson"
   },
@@ -739,7 +739,7 @@
     "type": "town",
     "ID": "10007170",
     "name": "社頭鄉",
-    "upperLayerID": 10007,
+    "upperLayerID": "10007",
     "center": [120.602209601847, 23.9054564038185],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10007170.geojson"
   },
@@ -747,7 +747,7 @@
     "type": "town",
     "ID": "10007180",
     "name": "二水鄉",
-    "upperLayerID": 10007,
+    "upperLayerID": "10007",
     "center": [120.628608154841, 23.8093161956843],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10007180.geojson"
   },
@@ -755,7 +755,7 @@
     "type": "town",
     "ID": "10007190",
     "name": "北斗鎮",
-    "upperLayerID": 10007,
+    "upperLayerID": "10007",
     "center": [120.533168834532, 23.8676685644887],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10007190.geojson"
   },
@@ -763,7 +763,7 @@
     "type": "town",
     "ID": "10007200",
     "name": "二林鎮",
-    "upperLayerID": 10007,
+    "upperLayerID": "10007",
     "center": [120.404224641203, 23.9162983111589],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10007200.geojson"
   },
@@ -771,7 +771,7 @@
     "type": "town",
     "ID": "10007210",
     "name": "田尾鄉",
-    "upperLayerID": 10007,
+    "upperLayerID": "10007",
     "center": [120.522331463293, 23.900654298131],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10007210.geojson"
   },
@@ -779,7 +779,7 @@
     "type": "town",
     "ID": "10007220",
     "name": "埤頭鄉",
-    "upperLayerID": 10007,
+    "upperLayerID": "10007",
     "center": [120.467565188241, 23.8824347549408],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10007220.geojson"
   },
@@ -787,7 +787,7 @@
     "type": "town",
     "ID": "10007230",
     "name": "芳苑鄉",
-    "upperLayerID": 10007,
+    "upperLayerID": "10007",
     "center": [120.340837111929, 23.9579489408542],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10007230.geojson"
   },
@@ -795,7 +795,7 @@
     "type": "town",
     "ID": "10007240",
     "name": "大城鄉",
-    "upperLayerID": 10007,
+    "upperLayerID": "10007",
     "center": [120.295245735065, 23.859435888667],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10007240.geojson"
   },
@@ -803,7 +803,7 @@
     "type": "town",
     "ID": "10007250",
     "name": "竹塘鄉",
-    "upperLayerID": 10007,
+    "upperLayerID": "10007",
     "center": [120.413656686991, 23.8506796937849],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10007250.geojson"
   },
@@ -811,7 +811,7 @@
     "type": "town",
     "ID": "10007260",
     "name": "溪州鄉",
-    "upperLayerID": 10007,
+    "upperLayerID": "10007",
     "center": [120.522494940068, 23.8273396608629],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10007260.geojson"
   },
@@ -819,7 +819,7 @@
     "type": "town",
     "ID": "10008010",
     "name": "南投市",
-    "upperLayerID": 10008,
+    "upperLayerID": "10008",
     "center": [120.678817313863, 23.9217999451214],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10008010.geojson"
   },
@@ -827,7 +827,7 @@
     "type": "town",
     "ID": "10008020",
     "name": "埔里鎮",
-    "upperLayerID": 10008,
+    "upperLayerID": "10008",
     "center": [120.962570041175, 23.9790087477272],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10008020.geojson"
   },
@@ -835,7 +835,7 @@
     "type": "town",
     "ID": "10008030",
     "name": "草屯鎮",
-    "upperLayerID": 10008,
+    "upperLayerID": "10008",
     "center": [120.732104572069, 23.9833627492478],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10008030.geojson"
   },
@@ -843,7 +843,7 @@
     "type": "town",
     "ID": "10008040",
     "name": "竹山鎮",
-    "upperLayerID": 10008,
+    "upperLayerID": "10008",
     "center": [120.710104351495, 23.6981852474799],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10008040.geojson"
   },
@@ -851,7 +851,7 @@
     "type": "town",
     "ID": "10008050",
     "name": "集集鎮",
-    "upperLayerID": 10008,
+    "upperLayerID": "10008",
     "center": [120.785288378645, 23.8370868657102],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10008050.geojson"
   },
@@ -859,7 +859,7 @@
     "type": "town",
     "ID": "10008060",
     "name": "名間鄉",
-    "upperLayerID": 10008,
+    "upperLayerID": "10008",
     "center": [120.677454412463, 23.8511716535652],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10008060.geojson"
   },
@@ -867,7 +867,7 @@
     "type": "town",
     "ID": "10008070",
     "name": "鹿谷鄉",
-    "upperLayerID": 10008,
+    "upperLayerID": "10008",
     "center": [120.781530746655, 23.7378812952333],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10008070.geojson"
   },
@@ -875,7 +875,7 @@
     "type": "town",
     "ID": "10008080",
     "name": "中寮鄉",
-    "upperLayerID": 10008,
+    "upperLayerID": "10008",
     "center": [120.786020530555, 23.9060507573039],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10008080.geojson"
   },
@@ -883,7 +883,7 @@
     "type": "town",
     "ID": "10008090",
     "name": "魚池鄉",
-    "upperLayerID": 10008,
+    "upperLayerID": "10008",
     "center": [120.925725458327, 23.8760870592213],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10008090.geojson"
   },
@@ -891,7 +891,7 @@
     "type": "town",
     "ID": "10008100",
     "name": "國姓鄉",
-    "upperLayerID": 10008,
+    "upperLayerID": "10008",
     "center": [120.867547644689, 24.0313289870123],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10008100.geojson"
   },
@@ -899,7 +899,7 @@
     "type": "town",
     "ID": "10008110",
     "name": "水里鄉",
-    "upperLayerID": 10008,
+    "upperLayerID": "10008",
     "center": [120.862273697471, 23.796270013037],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10008110.geojson"
   },
@@ -907,7 +907,7 @@
     "type": "town",
     "ID": "10008120",
     "name": "信義鄉",
-    "upperLayerID": 10008,
+    "upperLayerID": "10008",
     "center": [121.021351844387, 23.6556098060063],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10008120.geojson"
   },
@@ -915,7 +915,7 @@
     "type": "town",
     "ID": "10008130",
     "name": "仁愛鄉",
-    "upperLayerID": 10008,
+    "upperLayerID": "10008",
     "center": [121.144453148673, 24.0287041767226],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10008130.geojson"
   },
@@ -923,7 +923,7 @@
     "type": "town",
     "ID": "10009010",
     "name": "斗六市",
-    "upperLayerID": 10009,
+    "upperLayerID": "10009",
     "center": [120.560088966287, 23.7066078736928],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10009010.geojson"
   },
@@ -931,7 +931,7 @@
     "type": "town",
     "ID": "10009020",
     "name": "斗南鎮",
-    "upperLayerID": 10009,
+    "upperLayerID": "10009",
     "center": [120.482632657559, 23.6707655773399],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10009020.geojson"
   },
@@ -939,7 +939,7 @@
     "type": "town",
     "ID": "10009030",
     "name": "虎尾鎮",
-    "upperLayerID": 10009,
+    "upperLayerID": "10009",
     "center": [120.42931035448, 23.7167070387591],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10009030.geojson"
   },
@@ -947,7 +947,7 @@
     "type": "town",
     "ID": "10009040",
     "name": "西螺鎮",
-    "upperLayerID": 10009,
+    "upperLayerID": "10009",
     "center": [120.458080888764, 23.7795178741584],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10009040.geojson"
   },
@@ -955,7 +955,7 @@
     "type": "town",
     "ID": "10009050",
     "name": "土庫鎮",
-    "upperLayerID": 10009,
+    "upperLayerID": "10009",
     "center": [120.364724491538, 23.6912008124304],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10009050.geojson"
   },
@@ -963,7 +963,7 @@
     "type": "town",
     "ID": "10009060",
     "name": "北港鎮",
-    "upperLayerID": 10009,
+    "upperLayerID": "10009",
     "center": [120.294012020553, 23.592285480155],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10009060.geojson"
   },
@@ -971,7 +971,7 @@
     "type": "town",
     "ID": "10009070",
     "name": "古坑鄉",
-    "upperLayerID": 10009,
+    "upperLayerID": "10009",
     "center": [120.611711340249, 23.6255673631508],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10009070.geojson"
   },
@@ -979,7 +979,7 @@
     "type": "town",
     "ID": "10009080",
     "name": "大埤鄉",
-    "upperLayerID": 10009,
+    "upperLayerID": "10009",
     "center": [120.425559619689, 23.645682777205],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10009080.geojson"
   },
@@ -987,7 +987,7 @@
     "type": "town",
     "ID": "10009090",
     "name": "莿桐鄉",
-    "upperLayerID": 10009,
+    "upperLayerID": "10009",
     "center": [120.529038319693, 23.7698254988918],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10009090.geojson"
   },
@@ -995,7 +995,7 @@
     "type": "town",
     "ID": "10009100",
     "name": "林內鄉",
-    "upperLayerID": 10009,
+    "upperLayerID": "10009",
     "center": [120.615492156863, 23.7558653706339],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10009100.geojson"
   },
@@ -1003,7 +1003,7 @@
     "type": "town",
     "ID": "10009110",
     "name": "二崙鄉",
-    "upperLayerID": 10009,
+    "upperLayerID": "10009",
     "center": [120.39645933446, 23.792645718451],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10009110.geojson"
   },
@@ -1011,7 +1011,7 @@
     "type": "town",
     "ID": "10009120",
     "name": "崙背鄉",
-    "upperLayerID": 10009,
+    "upperLayerID": "10009",
     "center": [120.333970795853, 23.7785885842389],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10009120.geojson"
   },
@@ -1019,7 +1019,7 @@
     "type": "town",
     "ID": "10009130",
     "name": "麥寮鄉",
-    "upperLayerID": 10009,
+    "upperLayerID": "10009",
     "center": [120.237998203377, 23.7913949262383],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10009130.geojson"
   },
@@ -1027,7 +1027,7 @@
     "type": "town",
     "ID": "10009140",
     "name": "東勢鄉",
-    "upperLayerID": 10009,
+    "upperLayerID": "10009",
     "center": [120.256416487233, 23.6962204221963],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10009140.geojson"
   },
@@ -1035,7 +1035,7 @@
     "type": "town",
     "ID": "10009150",
     "name": "褒忠鄉",
-    "upperLayerID": 10009,
+    "upperLayerID": "10009",
     "center": [120.311614828715, 23.7162214253993],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10009150.geojson"
   },
@@ -1043,7 +1043,7 @@
     "type": "town",
     "ID": "10009160",
     "name": "臺西鄉",
-    "upperLayerID": 10009,
+    "upperLayerID": "10009",
     "center": [120.199791946362, 23.7167429346158],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10009160.geojson"
   },
@@ -1051,7 +1051,7 @@
     "type": "town",
     "ID": "10009170",
     "name": "元長鄉",
-    "upperLayerID": 10009,
+    "upperLayerID": "10009",
     "center": [120.327959105631, 23.6425194113535],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10009170.geojson"
   },
@@ -1059,7 +1059,7 @@
     "type": "town",
     "ID": "10009180",
     "name": "四湖鄉",
-    "upperLayerID": 10009,
+    "upperLayerID": "10009",
     "center": [120.193832333086, 23.6463432251719],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10009180.geojson"
   },
@@ -1067,7 +1067,7 @@
     "type": "town",
     "ID": "10009190",
     "name": "口湖鄉",
-    "upperLayerID": 10009,
+    "upperLayerID": "10009",
     "center": [120.141386944787, 23.5540898177625],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10009190.geojson"
   },
@@ -1075,7 +1075,7 @@
     "type": "town",
     "ID": "10009200",
     "name": "水林鄉",
-    "upperLayerID": 10009,
+    "upperLayerID": "10009",
     "center": [120.235277491879, 23.5617190600379],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10009200.geojson"
   },
@@ -1083,7 +1083,7 @@
     "type": "town",
     "ID": "10010010",
     "name": "太保市",
-    "upperLayerID": 10010,
+    "upperLayerID": "10010",
     "center": [120.343939921539, 23.4730006942241],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10010010.geojson"
   },
@@ -1091,7 +1091,7 @@
     "type": "town",
     "ID": "10010020",
     "name": "朴子市",
-    "upperLayerID": 10010,
+    "upperLayerID": "10010",
     "center": [120.253847403519, 23.4461449118728],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10010020.geojson"
   },
@@ -1099,7 +1099,7 @@
     "type": "town",
     "ID": "10010030",
     "name": "布袋鎮",
-    "upperLayerID": 10010,
+    "upperLayerID": "10010",
     "center": [120.176308412575, 23.3750903304984],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10010030.geojson"
   },
@@ -1107,7 +1107,7 @@
     "type": "town",
     "ID": "10010040",
     "name": "大林鎮",
-    "upperLayerID": 10010,
+    "upperLayerID": "10010",
     "center": [120.480783615534, 23.5989928008695],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10010040.geojson"
   },
@@ -1115,7 +1115,7 @@
     "type": "town",
     "ID": "10010050",
     "name": "民雄鄉",
-    "upperLayerID": 10010,
+    "upperLayerID": "10010",
     "center": [120.444274990416, 23.5426486812914],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10010050.geojson"
   },
@@ -1123,7 +1123,7 @@
     "type": "town",
     "ID": "10010060",
     "name": "溪口鄉",
-    "upperLayerID": 10010,
+    "upperLayerID": "10010",
     "center": [120.401028856272, 23.5936161350701],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10010060.geojson"
   },
@@ -1131,7 +1131,7 @@
     "type": "town",
     "ID": "10010070",
     "name": "新港鄉",
-    "upperLayerID": 10010,
+    "upperLayerID": "10010",
     "center": [120.34828530383, 23.5459063794467],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10010070.geojson"
   },
@@ -1139,7 +1139,7 @@
     "type": "town",
     "ID": "10010080",
     "name": "六腳鄉",
-    "upperLayerID": 10010,
+    "upperLayerID": "10010",
     "center": [120.271481054747, 23.510269630209],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10010080.geojson"
   },
@@ -1147,7 +1147,7 @@
     "type": "town",
     "ID": "10010090",
     "name": "東石鄉",
-    "upperLayerID": 10010,
+    "upperLayerID": "10010",
     "center": [120.173820706626, 23.468601597019],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10010090.geojson"
   },
@@ -1155,7 +1155,7 @@
     "type": "town",
     "ID": "10010100",
     "name": "義竹鄉",
-    "upperLayerID": 10010,
+    "upperLayerID": "10010",
     "center": [120.22395059054, 23.345849679326],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10010100.geojson"
   },
@@ -1163,7 +1163,7 @@
     "type": "town",
     "ID": "10010110",
     "name": "鹿草鄉",
-    "upperLayerID": 10010,
+    "upperLayerID": "10010",
     "center": [120.304545970286, 23.4082040981295],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10010110.geojson"
   },
@@ -1171,7 +1171,7 @@
     "type": "town",
     "ID": "10010120",
     "name": "水上鄉",
-    "upperLayerID": 10010,
+    "upperLayerID": "10010",
     "center": [120.414731960726, 23.4291986626503],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10010120.geojson"
   },
@@ -1179,7 +1179,7 @@
     "type": "town",
     "ID": "10010130",
     "name": "中埔鄉",
-    "upperLayerID": 10010,
+    "upperLayerID": "10010",
     "center": [120.536533139577, 23.4041805789345],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10010130.geojson"
   },
@@ -1187,7 +1187,7 @@
     "type": "town",
     "ID": "10010140",
     "name": "竹崎鄉",
-    "upperLayerID": 10010,
+    "upperLayerID": "10010",
     "center": [120.596566227527, 23.503840249116],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10010140.geojson"
   },
@@ -1195,7 +1195,7 @@
     "type": "town",
     "ID": "10010150",
     "name": "梅山鄉",
-    "upperLayerID": 10010,
+    "upperLayerID": "10010",
     "center": [120.638775413185, 23.5554409324414],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10010150.geojson"
   },
@@ -1203,7 +1203,7 @@
     "type": "town",
     "ID": "10010160",
     "name": "番路鄉",
-    "upperLayerID": 10010,
+    "upperLayerID": "10010",
     "center": [120.607509656364, 23.4277629137156],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10010160.geojson"
   },
@@ -1211,7 +1211,7 @@
     "type": "town",
     "ID": "10010170",
     "name": "大埔鄉",
-    "upperLayerID": 10010,
+    "upperLayerID": "10010",
     "center": [120.58965510876, 23.2885894599636],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10010170.geojson"
   },
@@ -1219,7 +1219,7 @@
     "type": "town",
     "ID": "10010180",
     "name": "阿里山鄉",
-    "upperLayerID": 10010,
+    "upperLayerID": "10010",
     "center": [120.75964745244, 23.4409103292399],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10010180.geojson"
   },
@@ -1227,7 +1227,7 @@
     "type": "town",
     "ID": "10013010",
     "name": "屏東市",
-    "upperLayerID": 10013,
+    "upperLayerID": "10013",
     "center": [120.479991073511, 22.6648318953783],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10013010.geojson"
   },
@@ -1235,7 +1235,7 @@
     "type": "town",
     "ID": "10013020",
     "name": "潮州鎮",
-    "upperLayerID": 10013,
+    "upperLayerID": "10013",
     "center": [120.556798985643, 22.5365156173031],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10013020.geojson"
   },
@@ -1243,7 +1243,7 @@
     "type": "town",
     "ID": "10013030",
     "name": "東港鎮",
-    "upperLayerID": 10013,
+    "upperLayerID": "10013",
     "center": [120.473749799035, 22.4614048163665],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10013030.geojson"
   },
@@ -1251,7 +1251,7 @@
     "type": "town",
     "ID": "10013040",
     "name": "恆春鎮",
-    "upperLayerID": 10013,
+    "upperLayerID": "10013",
     "center": [120.763719895695, 21.9845726331396],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10013040.geojson"
   },
@@ -1259,7 +1259,7 @@
     "type": "town",
     "ID": "10013050",
     "name": "萬丹鄉",
-    "upperLayerID": 10013,
+    "upperLayerID": "10013",
     "center": [120.476958236823, 22.5881892530064],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10013050.geojson"
   },
@@ -1267,7 +1267,7 @@
     "type": "town",
     "ID": "10013060",
     "name": "長治鄉",
-    "upperLayerID": 10013,
+    "upperLayerID": "10013",
     "center": [120.555983723102, 22.6946476212654],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10013060.geojson"
   },
@@ -1275,7 +1275,7 @@
     "type": "town",
     "ID": "10013070",
     "name": "麟洛鄉",
-    "upperLayerID": 10013,
+    "upperLayerID": "10013",
     "center": [120.529960083997, 22.6488598813181],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10013070.geojson"
   },
@@ -1283,7 +1283,7 @@
     "type": "town",
     "ID": "10013080",
     "name": "九如鄉",
-    "upperLayerID": 10013,
+    "upperLayerID": "10013",
     "center": [120.484488391081, 22.7317732565048],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10013080.geojson"
   },
@@ -1291,7 +1291,7 @@
     "type": "town",
     "ID": "10013090",
     "name": "里港鄉",
-    "upperLayerID": 10013,
+    "upperLayerID": "10013",
     "center": [120.506128450812, 22.7986368202442],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10013090.geojson"
   },
@@ -1299,7 +1299,7 @@
     "type": "town",
     "ID": "10013100",
     "name": "鹽埔鄉",
-    "upperLayerID": 10013,
+    "upperLayerID": "10013",
     "center": [120.569387419615, 22.7426289933768],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10013100.geojson"
   },
@@ -1307,7 +1307,7 @@
     "type": "town",
     "ID": "10013110",
     "name": "高樹鄉",
-    "upperLayerID": 10013,
+    "upperLayerID": "10013",
     "center": [120.601762445599, 22.8100103724056],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10013110.geojson"
   },
@@ -1315,7 +1315,7 @@
     "type": "town",
     "ID": "10013120",
     "name": "萬巒鄉",
-    "upperLayerID": 10013,
+    "upperLayerID": "10013",
     "center": [120.601829136758, 22.5824409461277],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10013120.geojson"
   },
@@ -1323,7 +1323,7 @@
     "type": "town",
     "ID": "10013130",
     "name": "內埔鄉",
-    "upperLayerID": 10013,
+    "upperLayerID": "10013",
     "center": [120.5888201696, 22.6512610587613],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10013130.geojson"
   },
@@ -1331,7 +1331,7 @@
     "type": "town",
     "ID": "10013140",
     "name": "竹田鄉",
-    "upperLayerID": 10013,
+    "upperLayerID": "10013",
     "center": [120.5278673205, 22.5896819868166],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10013140.geojson"
   },
@@ -1339,7 +1339,7 @@
     "type": "town",
     "ID": "10013150",
     "name": "新埤鄉",
-    "upperLayerID": 10013,
+    "upperLayerID": "10013",
     "center": [120.584616583865, 22.4868543628595],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10013150.geojson"
   },
@@ -1347,7 +1347,7 @@
     "type": "town",
     "ID": "10013160",
     "name": "枋寮鄉",
-    "upperLayerID": 10013,
+    "upperLayerID": "10013",
     "center": [120.596810339683, 22.4028373148987],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10013160.geojson"
   },
@@ -1355,7 +1355,7 @@
     "type": "town",
     "ID": "10013170",
     "name": "新園鄉",
-    "upperLayerID": 10013,
+    "upperLayerID": "10013",
     "center": [120.4497039232, 22.5161391211456],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10013170.geojson"
   },
@@ -1363,7 +1363,7 @@
     "type": "town",
     "ID": "10013180",
     "name": "崁頂鄉",
-    "upperLayerID": 10013,
+    "upperLayerID": "10013",
     "center": [120.500653026474, 22.5153679584159],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10013180.geojson"
   },
@@ -1371,7 +1371,7 @@
     "type": "town",
     "ID": "10013190",
     "name": "林邊鄉",
-    "upperLayerID": 10013,
+    "upperLayerID": "10013",
     "center": [120.511324975426, 22.4400594074761],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10013190.geojson"
   },
@@ -1379,7 +1379,7 @@
     "type": "town",
     "ID": "10013200",
     "name": "南州鄉",
-    "upperLayerID": 10013,
+    "upperLayerID": "10013",
     "center": [120.518050851961, 22.4798985263448],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10013200.geojson"
   },
@@ -1387,7 +1387,7 @@
     "type": "town",
     "ID": "10013210",
     "name": "佳冬鄉",
-    "upperLayerID": 10013,
+    "upperLayerID": "10013",
     "center": [120.546908923706, 22.4290837321827],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10013210.geojson"
   },
@@ -1395,7 +1395,7 @@
     "type": "town",
     "ID": "10013220",
     "name": "琉球鄉",
-    "upperLayerID": 10013,
+    "upperLayerID": "10013",
     "center": [120.371127831046, 22.3402026983857],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10013220.geojson"
   },
@@ -1403,7 +1403,7 @@
     "type": "town",
     "ID": "10013230",
     "name": "車城鄉",
-    "upperLayerID": 10013,
+    "upperLayerID": "10013",
     "center": [120.742574429374, 22.0793747120606],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10013230.geojson"
   },
@@ -1411,7 +1411,7 @@
     "type": "town",
     "ID": "10013240",
     "name": "滿州鄉",
-    "upperLayerID": 10013,
+    "upperLayerID": "10013",
     "center": [120.844020502983, 22.0493396701007],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10013240.geojson"
   },
@@ -1419,7 +1419,7 @@
     "type": "town",
     "ID": "10013250",
     "name": "枋山鄉",
-    "upperLayerID": 10013,
+    "upperLayerID": "10013",
     "center": [120.657963309153, 22.2669546682308],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10013250.geojson"
   },
@@ -1427,7 +1427,7 @@
     "type": "town",
     "ID": "10013260",
     "name": "三地門鄉",
-    "upperLayerID": 10013,
+    "upperLayerID": "10013",
     "center": [120.686525154006, 22.7979674269569],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10013260.geojson"
   },
@@ -1435,7 +1435,7 @@
     "type": "town",
     "ID": "10013270",
     "name": "霧臺鄉",
-    "upperLayerID": 10013,
+    "upperLayerID": "10013",
     "center": [120.800817542942, 22.7600088651105],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10013270.geojson"
   },
@@ -1443,7 +1443,7 @@
     "type": "town",
     "ID": "10013280",
     "name": "瑪家鄉",
-    "upperLayerID": 10013,
+    "upperLayerID": "10013",
     "center": [120.679926232243, 22.6711719852965],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10013280.geojson"
   },
@@ -1451,7 +1451,7 @@
     "type": "town",
     "ID": "10013290",
     "name": "泰武鄉",
-    "upperLayerID": 10013,
+    "upperLayerID": "10013",
     "center": [120.691806982829, 22.6041900342369],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10013290.geojson"
   },
@@ -1459,7 +1459,7 @@
     "type": "town",
     "ID": "10013300",
     "name": "來義鄉",
-    "upperLayerID": 10013,
+    "upperLayerID": "10013",
     "center": [120.685715125043, 22.5016759124753],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10013300.geojson"
   },
@@ -1467,7 +1467,7 @@
     "type": "town",
     "ID": "10013310",
     "name": "春日鄉",
-    "upperLayerID": 10013,
+    "upperLayerID": "10013",
     "center": [120.697580228275, 22.4041233181989],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10013310.geojson"
   },
@@ -1475,7 +1475,7 @@
     "type": "town",
     "ID": "10013320",
     "name": "獅子鄉",
-    "upperLayerID": 10013,
+    "upperLayerID": "10013",
     "center": [120.735706759653, 22.2609025250231],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10013320.geojson"
   },
@@ -1483,7 +1483,7 @@
     "type": "town",
     "ID": "10013330",
     "name": "牡丹鄉",
-    "upperLayerID": 10013,
+    "upperLayerID": "10013",
     "center": [120.817475846573, 22.155559259879],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10013330.geojson"
   },
@@ -1491,7 +1491,7 @@
     "type": "town",
     "ID": "10014010",
     "name": "臺東市",
-    "upperLayerID": 10014,
+    "upperLayerID": "10014",
     "center": [121.110551224853, 22.7516846020177],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10014010.geojson"
   },
@@ -1499,7 +1499,7 @@
     "type": "town",
     "ID": "10014020",
     "name": "成功鎮",
-    "upperLayerID": 10014,
+    "upperLayerID": "10014",
     "center": [121.354091874598, 23.1264007399028],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10014020.geojson"
   },
@@ -1507,7 +1507,7 @@
     "type": "town",
     "ID": "10014030",
     "name": "關山鎮",
-    "upperLayerID": 10014,
+    "upperLayerID": "10014",
     "center": [121.17653500734, 23.0377746114526],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10014030.geojson"
   },
@@ -1515,7 +1515,7 @@
     "type": "town",
     "ID": "10014040",
     "name": "卑南鄉",
-    "upperLayerID": 10014,
+    "upperLayerID": "10014",
     "center": [121.00163609358, 22.7650069052276],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10014040.geojson"
   },
@@ -1523,7 +1523,7 @@
     "type": "town",
     "ID": "10014050",
     "name": "鹿野鄉",
-    "upperLayerID": 10014,
+    "upperLayerID": "10014",
     "center": [121.157093636306, 22.9518976160807],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10014050.geojson"
   },
@@ -1531,7 +1531,7 @@
     "type": "town",
     "ID": "10014060",
     "name": "池上鄉",
-    "upperLayerID": 10014,
+    "upperLayerID": "10014",
     "center": [121.218460764171, 23.0925757839428],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10014060.geojson"
   },
@@ -1539,7 +1539,7 @@
     "type": "town",
     "ID": "10014070",
     "name": "東河鄉",
-    "upperLayerID": 10014,
+    "upperLayerID": "10014",
     "center": [121.251753260318, 22.979771066511],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10014070.geojson"
   },
@@ -1547,7 +1547,7 @@
     "type": "town",
     "ID": "10014080",
     "name": "長濱鄉",
-    "upperLayerID": 10014,
+    "upperLayerID": "10014",
     "center": [121.426379863218, 23.3345162002653],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10014080.geojson"
   },
@@ -1555,7 +1555,7 @@
     "type": "town",
     "ID": "10014090",
     "name": "太麻里鄉",
-    "upperLayerID": 10014,
+    "upperLayerID": "10014",
     "center": [120.9799322137, 22.5913938934163],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10014090.geojson"
   },
@@ -1563,7 +1563,7 @@
     "type": "town",
     "ID": "10014100",
     "name": "大武鄉",
-    "upperLayerID": 10014,
+    "upperLayerID": "10014",
     "center": [120.898239455787, 22.3829398438555],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10014100.geojson"
   },
@@ -1571,7 +1571,7 @@
     "type": "town",
     "ID": "10014110",
     "name": "綠島鄉",
-    "upperLayerID": 10014,
+    "upperLayerID": "10014",
     "center": [121.490353826309, 22.6597366456154],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10014110.geojson"
   },
@@ -1579,7 +1579,7 @@
     "type": "town",
     "ID": "10014120",
     "name": "海端鄉",
-    "upperLayerID": 10014,
+    "upperLayerID": "10014",
     "center": [121.017594288606, 23.1149147463065],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10014120.geojson"
   },
@@ -1587,7 +1587,7 @@
     "type": "town",
     "ID": "10014130",
     "name": "延平鄉",
-    "upperLayerID": 10014,
+    "upperLayerID": "10014",
     "center": [120.983479532902, 22.9034896576851],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10014130.geojson"
   },
@@ -1595,7 +1595,7 @@
     "type": "town",
     "ID": "10014140",
     "name": "金峰鄉",
-    "upperLayerID": 10014,
+    "upperLayerID": "10014",
     "center": [120.857206239165, 22.5817212446045],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10014140.geojson"
   },
@@ -1603,7 +1603,7 @@
     "type": "town",
     "ID": "10014150",
     "name": "達仁鄉",
-    "upperLayerID": 10014,
+    "upperLayerID": "10014",
     "center": [120.835288247993, 22.3845887965085],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10014150.geojson"
   },
@@ -1611,7 +1611,7 @@
     "type": "town",
     "ID": "10014160",
     "name": "蘭嶼鄉",
-    "upperLayerID": 10014,
+    "upperLayerID": "10014",
     "center": [121.551941566919, 22.0446593319898],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10014160.geojson"
   },
@@ -1619,7 +1619,7 @@
     "type": "town",
     "ID": "10015010",
     "name": "花蓮市",
-    "upperLayerID": 10015,
+    "upperLayerID": "10015",
     "center": [121.608702392122, 23.9962965691201],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10015010.geojson"
   },
@@ -1627,7 +1627,7 @@
     "type": "town",
     "ID": "10015020",
     "name": "鳳林鎮",
-    "upperLayerID": 10015,
+    "upperLayerID": "10015",
     "center": [121.468541853992, 23.7428955584029],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10015020.geojson"
   },
@@ -1635,7 +1635,7 @@
     "type": "town",
     "ID": "10015030",
     "name": "玉里鎮",
-    "upperLayerID": 10015,
+    "upperLayerID": "10015",
     "center": [121.360773117036, 23.3716945326219],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10015030.geojson"
   },
@@ -1643,7 +1643,7 @@
     "type": "town",
     "ID": "10015040",
     "name": "新城鄉",
-    "upperLayerID": 10015,
+    "upperLayerID": "10015",
     "center": [121.614100644919, 24.0561256986418],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10015040.geojson"
   },
@@ -1651,7 +1651,7 @@
     "type": "town",
     "ID": "10015050",
     "name": "吉安鄉",
-    "upperLayerID": 10015,
+    "upperLayerID": "10015",
     "center": [121.564814590167, 23.955525075904],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10015050.geojson"
   },
@@ -1659,7 +1659,7 @@
     "type": "town",
     "ID": "10015060",
     "name": "壽豐鄉",
-    "upperLayerID": 10015,
+    "upperLayerID": "10015",
     "center": [121.53454149161, 23.8448793797843],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10015060.geojson"
   },
@@ -1667,7 +1667,7 @@
     "type": "town",
     "ID": "10015070",
     "name": "光復鄉",
-    "upperLayerID": 10015,
+    "upperLayerID": "10015",
     "center": [121.435287071364, 23.6465203304131],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10015070.geojson"
   },
@@ -1675,7 +1675,7 @@
     "type": "town",
     "ID": "10015080",
     "name": "豐濱鄉",
-    "upperLayerID": 10015,
+    "upperLayerID": "10015",
     "center": [121.494735208516, 23.5854248865003],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10015080.geojson"
   },
@@ -1683,7 +1683,7 @@
     "type": "town",
     "ID": "10015090",
     "name": "瑞穗鄉",
-    "upperLayerID": 10015,
+    "upperLayerID": "10015",
     "center": [121.407348781715, 23.5157207825566],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10015090.geojson"
   },
@@ -1691,7 +1691,7 @@
     "type": "town",
     "ID": "10015100",
     "name": "富里鄉",
-    "upperLayerID": 10015,
+    "upperLayerID": "10015",
     "center": [121.298105786939, 23.1968372396063],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10015100.geojson"
   },
@@ -1699,7 +1699,7 @@
     "type": "town",
     "ID": "10015110",
     "name": "秀林鄉",
-    "upperLayerID": 10015,
+    "upperLayerID": "10015",
     "center": [121.480971241965, 24.1238018014096],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10015110.geojson"
   },
@@ -1707,7 +1707,7 @@
     "type": "town",
     "ID": "10015120",
     "name": "萬榮鄉",
-    "upperLayerID": 10015,
+    "upperLayerID": "10015",
     "center": [121.318577464433, 23.7264291691916],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10015120.geojson"
   },
@@ -1715,7 +1715,7 @@
     "type": "town",
     "ID": "10015130",
     "name": "卓溪鄉",
-    "upperLayerID": 10015,
+    "upperLayerID": "10015",
     "center": [121.18000628898, 23.3903361828186],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10015130.geojson"
   },
@@ -1723,7 +1723,7 @@
     "type": "town",
     "ID": "10016010",
     "name": "馬公市",
-    "upperLayerID": 10016,
+    "upperLayerID": "10016",
     "center": [119.585637372205, 23.5456323686438],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10016010.geojson"
   },
@@ -1731,7 +1731,7 @@
     "type": "town",
     "ID": "10016020",
     "name": "湖西鄉",
-    "upperLayerID": 10016,
+    "upperLayerID": "10016",
     "center": [119.645762713875, 23.5781714647263],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10016020.geojson"
   },
@@ -1739,7 +1739,7 @@
     "type": "town",
     "ID": "10016030",
     "name": "白沙鄉",
-    "upperLayerID": 10016,
+    "upperLayerID": "10016",
     "center": [119.595817123651, 23.675719900468],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10016030.geojson"
   },
@@ -1747,7 +1747,7 @@
     "type": "town",
     "ID": "10016040",
     "name": "西嶼鄉",
-    "upperLayerID": 10016,
+    "upperLayerID": "10016",
     "center": [119.50935826427, 23.606054270204],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10016040.geojson"
   },
@@ -1755,7 +1755,7 @@
     "type": "town",
     "ID": "10016050",
     "name": "望安鄉",
-    "upperLayerID": 10016,
+    "upperLayerID": "10016",
     "center": [119.515473888011, 23.3428182143466],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10016050.geojson"
   },
@@ -1763,7 +1763,7 @@
     "type": "town",
     "ID": "10016060",
     "name": "七美鄉",
-    "upperLayerID": 10016,
+    "upperLayerID": "10016",
     "center": [119.429445551077, 23.2082569083399],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10016060.geojson"
   },
@@ -1771,7 +1771,7 @@
     "type": "town",
     "ID": "10017010",
     "name": "中正區",
-    "upperLayerID": 10017,
+    "upperLayerID": "10017",
     "center": [121.803693312798, 25.1857462782317],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10017010.geojson"
   },
@@ -1779,7 +1779,7 @@
     "type": "town",
     "ID": "10017020",
     "name": "七堵區",
-    "upperLayerID": 10017,
+    "upperLayerID": "10017",
     "center": [121.683651449534, 25.1097158781437],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10017020.geojson"
   },
@@ -1787,7 +1787,7 @@
     "type": "town",
     "ID": "10017030",
     "name": "暖暖區",
-    "upperLayerID": 10017,
+    "upperLayerID": "10017",
     "center": [121.744765462734, 25.0810279663599],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10017030.geojson"
   },
@@ -1795,7 +1795,7 @@
     "type": "town",
     "ID": "10017040",
     "name": "仁愛區",
-    "upperLayerID": 10017,
+    "upperLayerID": "10017",
     "center": [121.743420274358, 25.1200208821717],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10017040.geojson"
   },
@@ -1803,7 +1803,7 @@
     "type": "town",
     "ID": "10017050",
     "name": "中山區",
-    "upperLayerID": 10017,
+    "upperLayerID": "10017",
     "center": [121.732897627838, 25.1500722468171],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10017050.geojson"
   },
@@ -1811,7 +1811,7 @@
     "type": "town",
     "ID": "10017060",
     "name": "安樂區",
-    "upperLayerID": 10017,
+    "upperLayerID": "10017",
     "center": [121.707877409013, 25.1416351012393],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10017060.geojson"
   },
@@ -1819,7 +1819,7 @@
     "type": "town",
     "ID": "10017070",
     "name": "信義區",
-    "upperLayerID": 10017,
+    "upperLayerID": "10017",
     "center": [121.772863529673, 25.1257112561749],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10017070.geojson"
   },
@@ -1827,7 +1827,7 @@
     "type": "town",
     "ID": "10018010",
     "name": "東區",
-    "upperLayerID": 10018,
+    "upperLayerID": "10018",
     "center": [120.992641096161, 24.7904181028186],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10018010.geojson"
   },
@@ -1835,7 +1835,7 @@
     "type": "town",
     "ID": "10018020",
     "name": "北區",
-    "upperLayerID": 10018,
+    "upperLayerID": "10018",
     "center": [120.946256727462, 24.8256355124874],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10018020.geojson"
   },
@@ -1843,7 +1843,7 @@
     "type": "town",
     "ID": "10018030",
     "name": "香山區",
-    "upperLayerID": 10018,
+    "upperLayerID": "10018",
     "center": [120.922474328933, 24.7715414326062],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10018030.geojson"
   },
@@ -1851,7 +1851,7 @@
     "type": "town",
     "ID": "10020010",
     "name": "東區",
-    "upperLayerID": 10020,
+    "upperLayerID": "10020",
     "center": [120.471009428224, 23.4815202077285],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10020010.geojson"
   },
@@ -1859,7 +1859,7 @@
     "type": "town",
     "ID": "10020020",
     "name": "西區",
-    "upperLayerID": 10020,
+    "upperLayerID": "10020",
     "center": [120.424882591514, 23.4795703838382],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_10020020.geojson"
   },
@@ -1867,7 +1867,7 @@
     "type": "town",
     "ID": "63000010",
     "name": "松山區",
-    "upperLayerID": 63000,
+    "upperLayerID": "63000",
     "center": [121.557762464772, 25.0597996207978],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_63000010.geojson"
   },
@@ -1875,7 +1875,7 @@
     "type": "town",
     "ID": "63000020",
     "name": "信義區",
-    "upperLayerID": 63000,
+    "upperLayerID": "63000",
     "center": [121.57165989923, 25.0307515259308],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_63000020.geojson"
   },
@@ -1883,7 +1883,7 @@
     "type": "town",
     "ID": "63000030",
     "name": "大安區",
-    "upperLayerID": 63000,
+    "upperLayerID": "63000",
     "center": [121.543432371779, 25.0268620354806],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_63000030.geojson"
   },
@@ -1891,7 +1891,7 @@
     "type": "town",
     "ID": "63000040",
     "name": "中山區",
-    "upperLayerID": 63000,
+    "upperLayerID": "63000",
     "center": [121.538346469731, 25.0698497103999],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_63000040.geojson"
   },
@@ -1899,7 +1899,7 @@
     "type": "town",
     "ID": "63000050",
     "name": "中正區",
-    "upperLayerID": 63000,
+    "upperLayerID": "63000",
     "center": [121.519856653548, 25.032454426274],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_63000050.geojson"
   },
@@ -1907,7 +1907,7 @@
     "type": "town",
     "ID": "63000060",
     "name": "大同區",
-    "upperLayerID": 63000,
+    "upperLayerID": "63000",
     "center": [121.513215665226, 25.0640026238894],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_63000060.geojson"
   },
@@ -1915,7 +1915,7 @@
     "type": "town",
     "ID": "63000070",
     "name": "萬華區",
-    "upperLayerID": 63000,
+    "upperLayerID": "63000",
     "center": [121.497355844491, 25.0293654890466],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_63000070.geojson"
   },
@@ -1923,7 +1923,7 @@
     "type": "town",
     "ID": "63000080",
     "name": "文山區",
-    "upperLayerID": 63000,
+    "upperLayerID": "63000",
     "center": [121.573986645122, 24.9886523561818],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_63000080.geojson"
   },
@@ -1931,7 +1931,7 @@
     "type": "town",
     "ID": "63000090",
     "name": "南港區",
-    "upperLayerID": 63000,
+    "upperLayerID": "63000",
     "center": [121.609744964854, 25.0361020844857],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_63000090.geojson"
   },
@@ -1939,7 +1939,7 @@
     "type": "town",
     "ID": "63000100",
     "name": "內湖區",
-    "upperLayerID": 63000,
+    "upperLayerID": "63000",
     "center": [121.592400447252, 25.0838174343598],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_63000100.geojson"
   },
@@ -1947,7 +1947,7 @@
     "type": "town",
     "ID": "63000110",
     "name": "士林區",
-    "upperLayerID": 63000,
+    "upperLayerID": "63000",
     "center": [121.550877915655, 25.125602734605],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_63000110.geojson"
   },
@@ -1955,7 +1955,7 @@
     "type": "town",
     "ID": "63000120",
     "name": "北投區",
-    "upperLayerID": 63000,
+    "upperLayerID": "63000",
     "center": [121.517842708544, 25.1481968864642],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_63000120.geojson"
   },
@@ -1963,7 +1963,7 @@
     "type": "town",
     "ID": "64000010",
     "name": "鹽埕區",
-    "upperLayerID": 64000,
+    "upperLayerID": "64000",
     "center": [120.284414024548, 22.6239298283778],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_64000010.geojson"
   },
@@ -1971,7 +1971,7 @@
     "type": "town",
     "ID": "64000020",
     "name": "鼓山區",
-    "upperLayerID": 64000,
+    "upperLayerID": "64000",
     "center": [120.274075245508, 22.6481229160743],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_64000020.geojson"
   },
@@ -1979,7 +1979,7 @@
     "type": "town",
     "ID": "64000030",
     "name": "左營區",
-    "upperLayerID": 64000,
+    "upperLayerID": "64000",
     "center": [120.292005454389, 22.6850087570982],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_64000030.geojson"
   },
@@ -1987,7 +1987,7 @@
     "type": "town",
     "ID": "64000040",
     "name": "楠梓區",
-    "upperLayerID": 64000,
+    "upperLayerID": "64000",
     "center": [120.300362911459, 22.720796633529],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_64000040.geojson"
   },
@@ -1995,7 +1995,7 @@
     "type": "town",
     "ID": "64000050",
     "name": "三民區",
-    "upperLayerID": 64000,
+    "upperLayerID": "64000",
     "center": [120.317892734019, 22.6498899783313],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_64000050.geojson"
   },
@@ -2003,7 +2003,7 @@
     "type": "town",
     "ID": "64000060",
     "name": "新興區",
-    "upperLayerID": 64000,
+    "upperLayerID": "64000",
     "center": [120.306715884301, 22.6299659978645],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_64000060.geojson"
   },
@@ -2011,7 +2011,7 @@
     "type": "town",
     "ID": "64000070",
     "name": "前金區",
-    "upperLayerID": 64000,
+    "upperLayerID": "64000",
     "center": [120.294489228847, 22.6270892287705],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_64000070.geojson"
   },
@@ -2019,7 +2019,7 @@
     "type": "town",
     "ID": "64000080",
     "name": "苓雅區",
-    "upperLayerID": 64000,
+    "upperLayerID": "64000",
     "center": [120.320142390811, 22.6233647133787],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_64000080.geojson"
   },
@@ -2027,7 +2027,7 @@
     "type": "town",
     "ID": "64000090",
     "name": "前鎮區",
-    "upperLayerID": 64000,
+    "upperLayerID": "64000",
     "center": [120.312459901126, 22.5923953796042],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_64000090.geojson"
   },
@@ -2035,7 +2035,7 @@
     "type": "town",
     "ID": "64000100",
     "name": "旗津區",
-    "upperLayerID": 64000,
+    "upperLayerID": "64000",
     "center": [119.818450507093, 22.0625180796914],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_64000100.geojson"
   },
@@ -2043,7 +2043,7 @@
     "type": "town",
     "ID": "64000110",
     "name": "小港區",
-    "upperLayerID": 64000,
+    "upperLayerID": "64000",
     "center": [120.352569195215, 22.5482077469263],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_64000110.geojson"
   },
@@ -2051,7 +2051,7 @@
     "type": "town",
     "ID": "64000120",
     "name": "鳳山區",
-    "upperLayerID": 64000,
+    "upperLayerID": "64000",
     "center": [120.355428397161, 22.6138796248204],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_64000120.geojson"
   },
@@ -2059,7 +2059,7 @@
     "type": "town",
     "ID": "64000130",
     "name": "林園區",
-    "upperLayerID": 64000,
+    "upperLayerID": "64000",
     "center": [120.398169286088, 22.5052467715793],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_64000130.geojson"
   },
@@ -2067,7 +2067,7 @@
     "type": "town",
     "ID": "64000140",
     "name": "大寮區",
-    "upperLayerID": 64000,
+    "upperLayerID": "64000",
     "center": [120.411134105899, 22.5929277015594],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_64000140.geojson"
   },
@@ -2075,7 +2075,7 @@
     "type": "town",
     "ID": "64000150",
     "name": "大樹區",
-    "upperLayerID": 64000,
+    "upperLayerID": "64000",
     "center": [120.425405442468, 22.7110912007458],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_64000150.geojson"
   },
@@ -2083,7 +2083,7 @@
     "type": "town",
     "ID": "64000160",
     "name": "大社區",
-    "upperLayerID": 64000,
+    "upperLayerID": "64000",
     "center": [120.370792498215, 22.7399186236239],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_64000160.geojson"
   },
@@ -2091,7 +2091,7 @@
     "type": "town",
     "ID": "64000170",
     "name": "仁武區",
-    "upperLayerID": 64000,
+    "upperLayerID": "64000",
     "center": [120.360519426037, 22.7012886724144],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_64000170.geojson"
   },
@@ -2099,7 +2099,7 @@
     "type": "town",
     "ID": "64000180",
     "name": "鳥松區",
-    "upperLayerID": 64000,
+    "upperLayerID": "64000",
     "center": [120.372777298329, 22.662578944481],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_64000180.geojson"
   },
@@ -2107,7 +2107,7 @@
     "type": "town",
     "ID": "64000190",
     "name": "岡山區",
-    "upperLayerID": 64000,
+    "upperLayerID": "64000",
     "center": [120.297890602374, 22.8051556154184],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_64000190.geojson"
   },
@@ -2115,7 +2115,7 @@
     "type": "town",
     "ID": "64000200",
     "name": "橋頭區",
-    "upperLayerID": 64000,
+    "upperLayerID": "64000",
     "center": [120.300645063953, 22.75260116896],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_64000200.geojson"
   },
@@ -2123,7 +2123,7 @@
     "type": "town",
     "ID": "64000210",
     "name": "燕巢區",
-    "upperLayerID": 64000,
+    "upperLayerID": "64000",
     "center": [120.370777388364, 22.7877779706437],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_64000210.geojson"
   },
@@ -2131,7 +2131,7 @@
     "type": "town",
     "ID": "64000220",
     "name": "田寮區",
-    "upperLayerID": 64000,
+    "upperLayerID": "64000",
     "center": [120.395885713133, 22.8639549473407],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_64000220.geojson"
   },
@@ -2139,7 +2139,7 @@
     "type": "town",
     "ID": "64000230",
     "name": "阿蓮區",
-    "upperLayerID": 64000,
+    "upperLayerID": "64000",
     "center": [120.321082602063, 22.8703146324104],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_64000230.geojson"
   },
@@ -2147,7 +2147,7 @@
     "type": "town",
     "ID": "64000240",
     "name": "路竹區",
-    "upperLayerID": 64000,
+    "upperLayerID": "64000",
     "center": [120.265975357042, 22.8573518017178],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_64000240.geojson"
   },
@@ -2155,7 +2155,7 @@
     "type": "town",
     "ID": "64000250",
     "name": "湖內區",
-    "upperLayerID": 64000,
+    "upperLayerID": "64000",
     "center": [120.225905821133, 22.8933221465287],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_64000250.geojson"
   },
@@ -2163,7 +2163,7 @@
     "type": "town",
     "ID": "64000260",
     "name": "茄萣區",
-    "upperLayerID": 64000,
+    "upperLayerID": "64000",
     "center": [120.197910384145, 22.8822529124103],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_64000260.geojson"
   },
@@ -2171,7 +2171,7 @@
     "type": "town",
     "ID": "64000270",
     "name": "永安區",
-    "upperLayerID": 64000,
+    "upperLayerID": "64000",
     "center": [120.225730423642, 22.8219395987282],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_64000270.geojson"
   },
@@ -2179,7 +2179,7 @@
     "type": "town",
     "ID": "64000280",
     "name": "彌陀區",
-    "upperLayerID": 64000,
+    "upperLayerID": "64000",
     "center": [120.23939008473, 22.7794605497785],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_64000280.geojson"
   },
@@ -2187,7 +2187,7 @@
     "type": "town",
     "ID": "64000290",
     "name": "梓官區",
-    "upperLayerID": 64000,
+    "upperLayerID": "64000",
     "center": [120.259347128026, 22.748164642836],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_64000290.geojson"
   },
@@ -2195,7 +2195,7 @@
     "type": "town",
     "ID": "64000300",
     "name": "旗山區",
-    "upperLayerID": 64000,
+    "upperLayerID": "64000",
     "center": [120.475461752241, 22.8650721587265],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_64000300.geojson"
   },
@@ -2203,7 +2203,7 @@
     "type": "town",
     "ID": "64000310",
     "name": "美濃區",
-    "upperLayerID": 64000,
+    "upperLayerID": "64000",
     "center": [120.563471890976, 22.9001557104094],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_64000310.geojson"
   },
@@ -2211,7 +2211,7 @@
     "type": "town",
     "ID": "64000320",
     "name": "六龜區",
-    "upperLayerID": 64000,
+    "upperLayerID": "64000",
     "center": [120.657850251937, 23.008841858821],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_64000320.geojson"
   },
@@ -2219,7 +2219,7 @@
     "type": "town",
     "ID": "64000330",
     "name": "甲仙區",
-    "upperLayerID": 64000,
+    "upperLayerID": "64000",
     "center": [120.623309058513, 23.1166556092284],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_64000330.geojson"
   },
@@ -2227,7 +2227,7 @@
     "type": "town",
     "ID": "64000340",
     "name": "杉林區",
-    "upperLayerID": 64000,
+    "upperLayerID": "64000",
     "center": [120.562199342258, 22.9970438325171],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_64000340.geojson"
   },
@@ -2235,7 +2235,7 @@
     "type": "town",
     "ID": "64000350",
     "name": "內門區",
-    "upperLayerID": 64000,
+    "upperLayerID": "64000",
     "center": [120.471845967005, 22.9566434824808],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_64000350.geojson"
   },
@@ -2243,7 +2243,7 @@
     "type": "town",
     "ID": "64000360",
     "name": "茂林區",
-    "upperLayerID": 64000,
+    "upperLayerID": "64000",
     "center": [120.752363852327, 22.9200463521847],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_64000360.geojson"
   },
@@ -2251,7 +2251,7 @@
     "type": "town",
     "ID": "64000370",
     "name": "桃源區",
-    "upperLayerID": 64000,
+    "upperLayerID": "64000",
     "center": [120.851415303279, 23.224464926515],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_64000370.geojson"
   },
@@ -2259,7 +2259,7 @@
     "type": "town",
     "ID": "64000380",
     "name": "那瑪夏區",
-    "upperLayerID": 64000,
+    "upperLayerID": "64000",
     "center": [120.721080604454, 23.263416823878],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_64000380.geojson"
   },
@@ -2267,7 +2267,7 @@
     "type": "town",
     "ID": "65000010",
     "name": "板橋區",
-    "upperLayerID": 65000,
+    "upperLayerID": "65000",
     "center": [121.457693650331, 25.0116889983642],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_65000010.geojson"
   },
@@ -2275,7 +2275,7 @@
     "type": "town",
     "ID": "65000020",
     "name": "三重區",
-    "upperLayerID": 65000,
+    "upperLayerID": "65000",
     "center": [121.487171925878, 25.0631042183076],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_65000020.geojson"
   },
@@ -2283,7 +2283,7 @@
     "type": "town",
     "ID": "65000030",
     "name": "中和區",
-    "upperLayerID": 65000,
+    "upperLayerID": "65000",
     "center": [121.49417673319, 24.9909597607322],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_65000030.geojson"
   },
@@ -2291,7 +2291,7 @@
     "type": "town",
     "ID": "65000040",
     "name": "永和區",
-    "upperLayerID": 65000,
+    "upperLayerID": "65000",
     "center": [121.516754928021, 25.0082139260078],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_65000040.geojson"
   },
@@ -2299,7 +2299,7 @@
     "type": "town",
     "ID": "65000050",
     "name": "新莊區",
-    "upperLayerID": 65000,
+    "upperLayerID": "65000",
     "center": [121.436745028656, 25.0359290208192],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_65000050.geojson"
   },
@@ -2307,7 +2307,7 @@
     "type": "town",
     "ID": "65000060",
     "name": "新店區",
-    "upperLayerID": 65000,
+    "upperLayerID": "65000",
     "center": [121.531658491756, 24.9304957540026],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_65000060.geojson"
   },
@@ -2315,7 +2315,7 @@
     "type": "town",
     "ID": "65000070",
     "name": "樹林區",
-    "upperLayerID": 65000,
+    "upperLayerID": "65000",
     "center": [121.401085794945, 24.9798895883273],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_65000070.geojson"
   },
@@ -2323,7 +2323,7 @@
     "type": "town",
     "ID": "65000080",
     "name": "鶯歌區",
-    "upperLayerID": 65000,
+    "upperLayerID": "65000",
     "center": [121.34655026852, 24.9566990534781],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_65000080.geojson"
   },
@@ -2331,7 +2331,7 @@
     "type": "town",
     "ID": "65000090",
     "name": "三峽區",
-    "upperLayerID": 65000,
+    "upperLayerID": "65000",
     "center": [121.416287955529, 24.8822377133016],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_65000090.geojson"
   },
@@ -2339,7 +2339,7 @@
     "type": "town",
     "ID": "65000100",
     "name": "淡水區",
-    "upperLayerID": 65000,
+    "upperLayerID": "65000",
     "center": [121.463403737339, 25.1895259327027],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_65000100.geojson"
   },
@@ -2347,7 +2347,7 @@
     "type": "town",
     "ID": "65000110",
     "name": "汐止區",
-    "upperLayerID": 65000,
+    "upperLayerID": "65000",
     "center": [121.654684642953, 25.0734029571181],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_65000110.geojson"
   },
@@ -2355,7 +2355,7 @@
     "type": "town",
     "ID": "65000120",
     "name": "瑞芳區",
-    "upperLayerID": 65000,
+    "upperLayerID": "65000",
     "center": [121.82361196389, 25.0985129605745],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_65000120.geojson"
   },
@@ -2363,7 +2363,7 @@
     "type": "town",
     "ID": "65000130",
     "name": "土城區",
-    "upperLayerID": 65000,
+    "upperLayerID": "65000",
     "center": [121.445728607387, 24.9643705577308],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_65000130.geojson"
   },
@@ -2371,7 +2371,7 @@
     "type": "town",
     "ID": "65000140",
     "name": "蘆洲區",
-    "upperLayerID": 65000,
+    "upperLayerID": "65000",
     "center": [121.471258878145, 25.0893607710952],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_65000140.geojson"
   },
@@ -2379,7 +2379,7 @@
     "type": "town",
     "ID": "65000150",
     "name": "五股區",
-    "upperLayerID": 65000,
+    "upperLayerID": "65000",
     "center": [121.433202534774, 25.0962458132391],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_65000150.geojson"
   },
@@ -2387,7 +2387,7 @@
     "type": "town",
     "ID": "65000160",
     "name": "泰山區",
-    "upperLayerID": 65000,
+    "upperLayerID": "65000",
     "center": [121.41626968134, 25.0555917257433],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_65000160.geojson"
   },
@@ -2395,7 +2395,7 @@
     "type": "town",
     "ID": "65000170",
     "name": "林口區",
-    "upperLayerID": 65000,
+    "upperLayerID": "65000",
     "center": [121.352434587133, 25.1004706215064],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_65000170.geojson"
   },
@@ -2403,7 +2403,7 @@
     "type": "town",
     "ID": "65000180",
     "name": "深坑區",
-    "upperLayerID": 65000,
+    "upperLayerID": "65000",
     "center": [121.619996486007, 24.9977066103084],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_65000180.geojson"
   },
@@ -2411,7 +2411,7 @@
     "type": "town",
     "ID": "65000190",
     "name": "石碇區",
-    "upperLayerID": 65000,
+    "upperLayerID": "65000",
     "center": [121.647249766976, 24.9472808916199],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_65000190.geojson"
   },
@@ -2419,7 +2419,7 @@
     "type": "town",
     "ID": "65000200",
     "name": "坪林區",
-    "upperLayerID": 65000,
+    "upperLayerID": "65000",
     "center": [121.724239304315, 24.9110691909791],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_65000200.geojson"
   },
@@ -2427,7 +2427,7 @@
     "type": "town",
     "ID": "65000210",
     "name": "三芝區",
-    "upperLayerID": 65000,
+    "upperLayerID": "65000",
     "center": [121.514817608478, 25.2320947957212],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_65000210.geojson"
   },
@@ -2435,7 +2435,7 @@
     "type": "town",
     "ID": "65000220",
     "name": "石門區",
-    "upperLayerID": 65000,
+    "upperLayerID": "65000",
     "center": [121.569266873851, 25.2655771511782],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_65000220.geojson"
   },
@@ -2443,7 +2443,7 @@
     "type": "town",
     "ID": "65000230",
     "name": "八里區",
-    "upperLayerID": 65000,
+    "upperLayerID": "65000",
     "center": [121.412876148926, 25.138232200052],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_65000230.geojson"
   },
@@ -2451,7 +2451,7 @@
     "type": "town",
     "ID": "65000240",
     "name": "平溪區",
-    "upperLayerID": 65000,
+    "upperLayerID": "65000",
     "center": [121.757899987344, 25.0261646838357],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_65000240.geojson"
   },
@@ -2459,7 +2459,7 @@
     "type": "town",
     "ID": "65000250",
     "name": "雙溪區",
-    "upperLayerID": 65000,
+    "upperLayerID": "65000",
     "center": [121.832815168888, 24.996929849892],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_65000250.geojson"
   },
@@ -2467,7 +2467,7 @@
     "type": "town",
     "ID": "65000260",
     "name": "貢寮區",
-    "upperLayerID": 65000,
+    "upperLayerID": "65000",
     "center": [121.919078467846, 25.0256483540411],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_65000260.geojson"
   },
@@ -2475,7 +2475,7 @@
     "type": "town",
     "ID": "65000270",
     "name": "金山區",
-    "upperLayerID": 65000,
+    "upperLayerID": "65000",
     "center": [121.605597196475, 25.2176014573887],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_65000270.geojson"
   },
@@ -2483,7 +2483,7 @@
     "type": "town",
     "ID": "65000280",
     "name": "萬里區",
-    "upperLayerID": 65000,
+    "upperLayerID": "65000",
     "center": [121.644409008022, 25.1760010776459],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_65000280.geojson"
   },
@@ -2491,7 +2491,7 @@
     "type": "town",
     "ID": "65000290",
     "name": "烏來區",
-    "upperLayerID": 65000,
+    "upperLayerID": "65000",
     "center": [121.541523101261, 24.7883505005569],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_65000290.geojson"
   },
@@ -2499,7 +2499,7 @@
     "type": "town",
     "ID": "66000010",
     "name": "中區",
-    "upperLayerID": 66000,
+    "upperLayerID": "66000",
     "center": [120.680594179137, 24.141762830143],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_66000010.geojson"
   },
@@ -2507,7 +2507,7 @@
     "type": "town",
     "ID": "66000020",
     "name": "東區",
-    "upperLayerID": 66000,
+    "upperLayerID": "66000",
     "center": [120.697051921093, 24.1373334467086],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_66000020.geojson"
   },
@@ -2515,7 +2515,7 @@
     "type": "town",
     "ID": "66000030",
     "name": "南區",
-    "upperLayerID": 66000,
+    "upperLayerID": "66000",
     "center": [120.66456588206, 24.1211854325997],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_66000030.geojson"
   },
@@ -2523,7 +2523,7 @@
     "type": "town",
     "ID": "66000040",
     "name": "西區",
-    "upperLayerID": 66000,
+    "upperLayerID": "66000",
     "center": [120.664676586787, 24.1439205434783],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_66000040.geojson"
   },
@@ -2531,7 +2531,7 @@
     "type": "town",
     "ID": "66000050",
     "name": "北區",
-    "upperLayerID": 66000,
+    "upperLayerID": "66000",
     "center": [120.68061098536, 24.1587860064175],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_66000050.geojson"
   },
@@ -2539,7 +2539,7 @@
     "type": "town",
     "ID": "66000060",
     "name": "西屯區",
-    "upperLayerID": 66000,
+    "upperLayerID": "66000",
     "center": [120.626735188811, 24.1830792260918],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_66000060.geojson"
   },
@@ -2547,7 +2547,7 @@
     "type": "town",
     "ID": "66000070",
     "name": "南屯區",
-    "upperLayerID": 66000,
+    "upperLayerID": "66000",
     "center": [120.617866511875, 24.1415851764297],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_66000070.geojson"
   },
@@ -2555,7 +2555,7 @@
     "type": "town",
     "ID": "66000080",
     "name": "北屯區",
-    "upperLayerID": 66000,
+    "upperLayerID": "66000",
     "center": [120.736144757674, 24.1841135314871],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_66000080.geojson"
   },
@@ -2563,7 +2563,7 @@
     "type": "town",
     "ID": "66000090",
     "name": "豐原區",
-    "upperLayerID": 66000,
+    "upperLayerID": "66000",
     "center": [120.737537055458, 24.2500605659448],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_66000090.geojson"
   },
@@ -2571,7 +2571,7 @@
     "type": "town",
     "ID": "66000100",
     "name": "東勢區",
-    "upperLayerID": 66000,
+    "upperLayerID": "66000",
     "center": [120.840117569559, 24.2496468495781],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_66000100.geojson"
   },
@@ -2579,7 +2579,7 @@
     "type": "town",
     "ID": "66000110",
     "name": "大甲區",
-    "upperLayerID": 66000,
+    "upperLayerID": "66000",
     "center": [120.63601795027, 24.3781279208659],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_66000110.geojson"
   },
@@ -2587,7 +2587,7 @@
     "type": "town",
     "ID": "66000120",
     "name": "清水區",
-    "upperLayerID": 66000,
+    "upperLayerID": "66000",
     "center": [120.577250244289, 24.2936947850081],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_66000120.geojson"
   },
@@ -2595,7 +2595,7 @@
     "type": "town",
     "ID": "66000130",
     "name": "沙鹿區",
-    "upperLayerID": 66000,
+    "upperLayerID": "66000",
     "center": [120.583763810902, 24.2343418862877],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_66000130.geojson"
   },
@@ -2603,7 +2603,7 @@
     "type": "town",
     "ID": "66000140",
     "name": "梧棲區",
-    "upperLayerID": 66000,
+    "upperLayerID": "66000",
     "center": [120.523540199508, 24.2499426926429],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_66000140.geojson"
   },
@@ -2611,7 +2611,7 @@
     "type": "town",
     "ID": "66000150",
     "name": "后里區",
-    "upperLayerID": 66000,
+    "upperLayerID": "66000",
     "center": [120.714601151098, 24.3097407098281],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_66000150.geojson"
   },
@@ -2619,7 +2619,7 @@
     "type": "town",
     "ID": "66000160",
     "name": "神岡區",
-    "upperLayerID": 66000,
+    "upperLayerID": "66000",
     "center": [120.673429624046, 24.2657624787747],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_66000160.geojson"
   },
@@ -2627,7 +2627,7 @@
     "type": "town",
     "ID": "66000170",
     "name": "潭子區",
-    "upperLayerID": 66000,
+    "upperLayerID": "66000",
     "center": [120.711116857759, 24.2119420834628],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_66000170.geojson"
   },
@@ -2635,7 +2635,7 @@
     "type": "town",
     "ID": "66000180",
     "name": "大雅區",
-    "upperLayerID": 66000,
+    "upperLayerID": "66000",
     "center": [120.641176682508, 24.2270232391277],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_66000180.geojson"
   },
@@ -2643,7 +2643,7 @@
     "type": "town",
     "ID": "66000190",
     "name": "新社區",
-    "upperLayerID": 66000,
+    "upperLayerID": "66000",
     "center": [120.831276476307, 24.177829301392],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_66000190.geojson"
   },
@@ -2651,7 +2651,7 @@
     "type": "town",
     "ID": "66000200",
     "name": "石岡區",
-    "upperLayerID": 66000,
+    "upperLayerID": "66000",
     "center": [120.790372051207, 24.2650420968214],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_66000200.geojson"
   },
@@ -2659,7 +2659,7 @@
     "type": "town",
     "ID": "66000210",
     "name": "外埔區",
-    "upperLayerID": 66000,
+    "upperLayerID": "66000",
     "center": [120.66504304964, 24.3356200213983],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_66000210.geojson"
   },
@@ -2667,7 +2667,7 @@
     "type": "town",
     "ID": "66000220",
     "name": "大安區",
-    "upperLayerID": 66000,
+    "upperLayerID": "66000",
     "center": [120.590069418752, 24.3646601450855],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_66000220.geojson"
   },
@@ -2675,7 +2675,7 @@
     "type": "town",
     "ID": "66000230",
     "name": "烏日區",
-    "upperLayerID": 66000,
+    "upperLayerID": "66000",
     "center": [120.629293194453, 24.0840608139993],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_66000230.geojson"
   },
@@ -2683,7 +2683,7 @@
     "type": "town",
     "ID": "66000240",
     "name": "大肚區",
-    "upperLayerID": 66000,
+    "upperLayerID": "66000",
     "center": [120.554276142998, 24.1448036480334],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_66000240.geojson"
   },
@@ -2691,7 +2691,7 @@
     "type": "town",
     "ID": "66000250",
     "name": "龍井區",
-    "upperLayerID": 66000,
+    "upperLayerID": "66000",
     "center": [120.52434665496, 24.201869684334],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_66000250.geojson"
   },
@@ -2699,7 +2699,7 @@
     "type": "town",
     "ID": "66000260",
     "name": "霧峰區",
-    "upperLayerID": 66000,
+    "upperLayerID": "66000",
     "center": [120.72006978752, 24.0434924735243],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_66000260.geojson"
   },
@@ -2707,7 +2707,7 @@
     "type": "town",
     "ID": "66000270",
     "name": "太平區",
-    "upperLayerID": 66000,
+    "upperLayerID": "66000",
     "center": [120.773374403536, 24.1148837214725],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_66000270.geojson"
   },
@@ -2715,7 +2715,7 @@
     "type": "town",
     "ID": "66000280",
     "name": "大里區",
-    "upperLayerID": 66000,
+    "upperLayerID": "66000",
     "center": [120.692724663744, 24.0959955338249],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_66000280.geojson"
   },
@@ -2723,7 +2723,7 @@
     "type": "town",
     "ID": "66000290",
     "name": "和平區",
-    "upperLayerID": 66000,
+    "upperLayerID": "66000",
     "center": [121.140654900087, 24.2760187681314],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_66000290.geojson"
   },
@@ -2731,7 +2731,7 @@
     "type": "town",
     "ID": "67000010",
     "name": "新營區",
-    "upperLayerID": 67000,
+    "upperLayerID": "67000",
     "center": [120.295422998869, 23.301630790313],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_67000010.geojson"
   },
@@ -2739,7 +2739,7 @@
     "type": "town",
     "ID": "67000020",
     "name": "鹽水區",
-    "upperLayerID": 67000,
+    "upperLayerID": "67000",
     "center": [120.248305205283, 23.2980831082205],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_67000020.geojson"
   },
@@ -2747,7 +2747,7 @@
     "type": "town",
     "ID": "67000030",
     "name": "白河區",
-    "upperLayerID": 67000,
+    "upperLayerID": "67000",
     "center": [120.457854191464, 23.3514138413505],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_67000030.geojson"
   },
@@ -2755,7 +2755,7 @@
     "type": "town",
     "ID": "67000040",
     "name": "柳營區",
-    "upperLayerID": 67000,
+    "upperLayerID": "67000",
     "center": [120.354973820986, 23.2689596767749],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_67000040.geojson"
   },
@@ -2763,7 +2763,7 @@
     "type": "town",
     "ID": "67000050",
     "name": "後壁區",
-    "upperLayerID": 67000,
+    "upperLayerID": "67000",
     "center": [120.348522686724, 23.3621126372419],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_67000050.geojson"
   },
@@ -2771,7 +2771,7 @@
     "type": "town",
     "ID": "67000060",
     "name": "東山區",
-    "upperLayerID": 67000,
+    "upperLayerID": "67000",
     "center": [120.44414760451, 23.2784197011104],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_67000060.geojson"
   },
@@ -2779,7 +2779,7 @@
     "type": "town",
     "ID": "67000070",
     "name": "麻豆區",
-    "upperLayerID": 67000,
+    "upperLayerID": "67000",
     "center": [120.241307709632, 23.1825770713091],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_67000070.geojson"
   },
@@ -2787,7 +2787,7 @@
     "type": "town",
     "ID": "67000080",
     "name": "下營區",
-    "upperLayerID": 67000,
+    "upperLayerID": "67000",
     "center": [120.264842752608, 23.2311402887517],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_67000080.geojson"
   },
@@ -2795,7 +2795,7 @@
     "type": "town",
     "ID": "67000090",
     "name": "六甲區",
-    "upperLayerID": 67000,
+    "upperLayerID": "67000",
     "center": [120.380022646074, 23.22735219405],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_67000090.geojson"
   },
@@ -2803,7 +2803,7 @@
     "type": "town",
     "ID": "67000100",
     "name": "官田區",
-    "upperLayerID": 67000,
+    "upperLayerID": "67000",
     "center": [120.347987879072, 23.1910752151556],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_67000100.geojson"
   },
@@ -2811,7 +2811,7 @@
     "type": "town",
     "ID": "67000110",
     "name": "大內區",
-    "upperLayerID": 67000,
+    "upperLayerID": "67000",
     "center": [120.39881258289, 23.1449102601556],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_67000110.geojson"
   },
@@ -2819,7 +2819,7 @@
     "type": "town",
     "ID": "67000120",
     "name": "佳里區",
-    "upperLayerID": 67000,
+    "upperLayerID": "67000",
     "center": [120.178602755584, 23.1670868307404],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_67000120.geojson"
   },
@@ -2827,7 +2827,7 @@
     "type": "town",
     "ID": "67000130",
     "name": "學甲區",
-    "upperLayerID": 67000,
+    "upperLayerID": "67000",
     "center": [120.184183553414, 23.252295170059],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_67000130.geojson"
   },
@@ -2835,7 +2835,7 @@
     "type": "town",
     "ID": "67000140",
     "name": "西港區",
-    "upperLayerID": 67000,
+    "upperLayerID": "67000",
     "center": [120.200241552684, 23.1250108254938],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_67000140.geojson"
   },
@@ -2843,7 +2843,7 @@
     "type": "town",
     "ID": "67000150",
     "name": "七股區",
-    "upperLayerID": 67000,
+    "upperLayerID": "67000",
     "center": [120.099212382418, 23.1230855888047],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_67000150.geojson"
   },
@@ -2851,7 +2851,7 @@
     "type": "town",
     "ID": "67000160",
     "name": "將軍區",
-    "upperLayerID": 67000,
+    "upperLayerID": "67000",
     "center": [120.127006448962, 23.2085639705045],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_67000160.geojson"
   },
@@ -2859,7 +2859,7 @@
     "type": "town",
     "ID": "67000170",
     "name": "北門區",
-    "upperLayerID": 67000,
+    "upperLayerID": "67000",
     "center": [120.125649521312, 23.2785804951069],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_67000170.geojson"
   },
@@ -2867,7 +2867,7 @@
     "type": "town",
     "ID": "67000180",
     "name": "新化區",
-    "upperLayerID": 67000,
+    "upperLayerID": "67000",
     "center": [120.335796182145, 23.0340404380842],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_67000180.geojson"
   },
@@ -2875,7 +2875,7 @@
     "type": "town",
     "ID": "67000190",
     "name": "善化區",
-    "upperLayerID": 67000,
+    "upperLayerID": "67000",
     "center": [120.298833164782, 23.1403936464826],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_67000190.geojson"
   },
@@ -2883,7 +2883,7 @@
     "type": "town",
     "ID": "67000200",
     "name": "新市區",
-    "upperLayerID": 67000,
+    "upperLayerID": "67000",
     "center": [120.292394587604, 23.0832858377812],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_67000200.geojson"
   },
@@ -2891,7 +2891,7 @@
     "type": "town",
     "ID": "67000210",
     "name": "安定區",
-    "upperLayerID": 67000,
+    "upperLayerID": "67000",
     "center": [120.2296194115, 23.0998309752126],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_67000210.geojson"
   },
@@ -2899,7 +2899,7 @@
     "type": "town",
     "ID": "67000220",
     "name": "山上區",
-    "upperLayerID": 67000,
+    "upperLayerID": "67000",
     "center": [120.371017613648, 23.0969748501157],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_67000220.geojson"
   },
@@ -2907,7 +2907,7 @@
     "type": "town",
     "ID": "67000230",
     "name": "玉井區",
-    "upperLayerID": 67000,
+    "upperLayerID": "67000",
     "center": [120.46096734641, 23.1149125905967],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_67000230.geojson"
   },
@@ -2915,7 +2915,7 @@
     "type": "town",
     "ID": "67000240",
     "name": "楠西區",
-    "upperLayerID": 67000,
+    "upperLayerID": "67000",
     "center": [120.517034335424, 23.1789589845516],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_67000240.geojson"
   },
@@ -2923,7 +2923,7 @@
     "type": "town",
     "ID": "67000250",
     "name": "南化區",
-    "upperLayerID": 67000,
+    "upperLayerID": "67000",
     "center": [120.544173430031, 23.1152206599494],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_67000250.geojson"
   },
@@ -2931,7 +2931,7 @@
     "type": "town",
     "ID": "67000260",
     "name": "左鎮區",
-    "upperLayerID": 67000,
+    "upperLayerID": "67000",
     "center": [120.412390122484, 23.0261508072889],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_67000260.geojson"
   },
@@ -2939,7 +2939,7 @@
     "type": "town",
     "ID": "67000270",
     "name": "仁德區",
-    "upperLayerID": 67000,
+    "upperLayerID": "67000",
     "center": [120.241878045532, 22.9413997819951],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_67000270.geojson"
   },
@@ -2947,7 +2947,7 @@
     "type": "town",
     "ID": "67000280",
     "name": "歸仁區",
-    "upperLayerID": 67000,
+    "upperLayerID": "67000",
     "center": [120.293067070035, 22.9468894029364],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_67000280.geojson"
   },
@@ -2955,7 +2955,7 @@
     "type": "town",
     "ID": "67000290",
     "name": "關廟區",
-    "upperLayerID": 67000,
+    "upperLayerID": "67000",
     "center": [120.334283313853, 22.9558684637205],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_67000290.geojson"
   },
@@ -2963,7 +2963,7 @@
     "type": "town",
     "ID": "67000300",
     "name": "龍崎區",
-    "upperLayerID": 67000,
+    "upperLayerID": "67000",
     "center": [120.386946766173, 22.9549133445993],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_67000300.geojson"
   },
@@ -2971,7 +2971,7 @@
     "type": "town",
     "ID": "67000310",
     "name": "永康區",
-    "upperLayerID": 67000,
+    "upperLayerID": "67000",
     "center": [120.254272993043, 23.0273803026767],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_67000310.geojson"
   },
@@ -2979,7 +2979,7 @@
     "type": "town",
     "ID": "67000320",
     "name": "東區",
-    "upperLayerID": 67000,
+    "upperLayerID": "67000",
     "center": [120.228194173069, 22.9818858302093],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_67000320.geojson"
   },
@@ -2987,7 +2987,7 @@
     "type": "town",
     "ID": "67000330",
     "name": "南區",
-    "upperLayerID": 67000,
+    "upperLayerID": "67000",
     "center": [120.189935630738, 22.9557394665242],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_67000330.geojson"
   },
@@ -2995,7 +2995,7 @@
     "type": "town",
     "ID": "67000340",
     "name": "北區",
-    "upperLayerID": 67000,
+    "upperLayerID": "67000",
     "center": [120.205922399702, 23.0101051282254],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_67000340.geojson"
   },
@@ -3003,7 +3003,7 @@
     "type": "town",
     "ID": "67000350",
     "name": "安南區",
-    "upperLayerID": 67000,
+    "upperLayerID": "67000",
     "center": [120.152609697905, 23.048768095765],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_67000350.geojson"
   },
@@ -3011,7 +3011,7 @@
     "type": "town",
     "ID": "67000360",
     "name": "安平區",
-    "upperLayerID": 67000,
+    "upperLayerID": "67000",
     "center": [120.164224616093, 22.9897979403563],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_67000360.geojson"
   },
@@ -3019,7 +3019,7 @@
     "type": "town",
     "ID": "67000370",
     "name": "中西區",
-    "upperLayerID": 67000,
+    "upperLayerID": "67000",
     "center": [120.193554629003, 22.9952745696051],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_67000370.geojson"
   },
@@ -3027,7 +3027,7 @@
     "type": "town",
     "ID": "68000010",
     "name": "桃園區",
-    "upperLayerID": 68000,
+    "upperLayerID": "68000",
     "center": [121.29966991401, 25.0004993199626],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_68000010.geojson"
   },
@@ -3035,7 +3035,7 @@
     "type": "town",
     "ID": "68000020",
     "name": "中壢區",
-    "upperLayerID": 68000,
+    "upperLayerID": "68000",
     "center": [121.214719430211, 24.9800256107604],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_68000020.geojson"
   },
@@ -3043,7 +3043,7 @@
     "type": "town",
     "ID": "68000030",
     "name": "大溪區",
-    "upperLayerID": 68000,
+    "upperLayerID": "68000",
     "center": [121.29635545277, 24.868050103791],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_68000030.geojson"
   },
@@ -3051,7 +3051,7 @@
     "type": "town",
     "ID": "68000040",
     "name": "楊梅區",
-    "upperLayerID": 68000,
+    "upperLayerID": "68000",
     "center": [121.129173349164, 24.918300973595],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_68000040.geojson"
   },
@@ -3059,7 +3059,7 @@
     "type": "town",
     "ID": "68000050",
     "name": "蘆竹區",
-    "upperLayerID": 68000,
+    "upperLayerID": "68000",
     "center": [121.283073203858, 25.061025299001],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_68000050.geojson"
   },
@@ -3067,7 +3067,7 @@
     "type": "town",
     "ID": "68000060",
     "name": "大園區",
-    "upperLayerID": 68000,
+    "upperLayerID": "68000",
     "center": [121.21117133994, 25.0650847882827],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_68000060.geojson"
   },
@@ -3075,7 +3075,7 @@
     "type": "town",
     "ID": "68000070",
     "name": "龜山區",
-    "upperLayerID": 68000,
+    "upperLayerID": "68000",
     "center": [121.35693542045, 25.0242729177713],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_68000070.geojson"
   },
@@ -3083,7 +3083,7 @@
     "type": "town",
     "ID": "68000080",
     "name": "八德區",
-    "upperLayerID": 68000,
+    "upperLayerID": "68000",
     "center": [121.291328721754, 24.9497314520217],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_68000080.geojson"
   },
@@ -3091,7 +3091,7 @@
     "type": "town",
     "ID": "68000090",
     "name": "龍潭區",
-    "upperLayerID": 68000,
+    "upperLayerID": "68000",
     "center": [121.211793934506, 24.850743152618],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_68000090.geojson"
   },
@@ -3099,7 +3099,7 @@
     "type": "town",
     "ID": "68000100",
     "name": "平鎮區",
-    "upperLayerID": 68000,
+    "upperLayerID": "68000",
     "center": [121.214030676374, 24.9212571732424],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_68000100.geojson"
   },
@@ -3107,7 +3107,7 @@
     "type": "town",
     "ID": "68000110",
     "name": "新屋區",
-    "upperLayerID": 68000,
+    "upperLayerID": "68000",
     "center": [121.066171884191, 24.9727214994077],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_68000110.geojson"
   },
@@ -3115,7 +3115,7 @@
     "type": "town",
     "ID": "68000120",
     "name": "觀音區",
-    "upperLayerID": 68000,
+    "upperLayerID": "68000",
     "center": [121.114223291243, 25.0274796797276],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_68000120.geojson"
   },
@@ -3123,7 +3123,7 @@
     "type": "town",
     "ID": "68000130",
     "name": "復興區",
-    "upperLayerID": 68000,
+    "upperLayerID": "68000",
     "center": [121.37545849399, 24.7296233013183],
     "data": "https://jenniferwu840209.github.io/taiwanMap/town_68000130.geojson"
   }
