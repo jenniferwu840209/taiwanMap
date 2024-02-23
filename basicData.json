@@ -3,7 +3,7 @@
     "type": "country",
     "ID": "00",
     "name": "台灣",
-    "upperLayerID": "null",
+    "upperLayerID": null,
     "center": [121.021, 23.598],
     "data": "https://jenniferwu840209.github.io/taiwanMap/county.geojson"
   },
